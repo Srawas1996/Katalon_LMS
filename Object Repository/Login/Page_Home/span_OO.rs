@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OO</name>
+   <tag></tag>
+   <elementGuidId>7e6124d4-70e6-4336-850d-6d37b8d569d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.flex.h-full.w-full.items-center.justify-center.rounded-full.bg-muted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>89f78ea4-2b31-4455-8896-9a4bf7fd141d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-full w-full items-center justify-center rounded-full bg-muted</value>
+      <webElementGuid>4f32b1dd-e4b9-49e9-82ac-3afc2f5b7edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OO</value>
+      <webElementGuid>44b18fed-8f54-4b7a-b21c-5bb5519906cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r11:&quot;)/span[@class=&quot;relative flex shrink-0 overflow-hidden rounded-full cursor-pointer w-9 h-9&quot;]/span[@class=&quot;flex h-full w-full items-center justify-center rounded-full bg-muted&quot;]</value>
+      <webElementGuid>a89d45c1-e4ac-4889-8f02-501883c80daa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='radix-:r11:']/span/span</value>
+      <webElementGuid>9ae6f25e-6e17-4831-87a6-0c67ed17b3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⌘K'])[1]/following::span[3]</value>
+      <webElementGuid>e0e4377e-72de-4652-a184-cc53aa995c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search...'])[1]/following::span[4]</value>
+      <webElementGuid>581b44b7-51d0-4e0e-a0e3-594435dbcf9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::span[12]</value>
+      <webElementGuid>4bc83861-a9f3-423b-9361-b867d7d1268e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::span[12]</value>
+      <webElementGuid>adfb3be2-cc4d-48a8-a4bf-6f83af524a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OO']/parent::*</value>
+      <webElementGuid>37da7c58-2939-4e33-95a8-1ca540037343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>04365bc4-5887-4771-9e1b-020f2710f221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OO' or . = 'OO')]</value>
+      <webElementGuid>abaa7eeb-7997-4309-8282-10a0cdcd13f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

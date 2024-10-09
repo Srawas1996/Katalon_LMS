@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click on Math Subject</name>
+   <tag></tag>
+   <elementGuidId>bef689f5-e4c0-439a-83f9-4c909a66307d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[2]/form/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6003ef0a-eeee-4329-94ba-e095f97a0724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>closed</value>
+      <webElementGuid>a199ee75-ed3c-4125-a053-202cb5c2d82b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-orientation</name>
+      <type>Main</type>
+      <value>vertical</value>
+      <webElementGuid>cb452cc7-399c-4a46-86b2-6f1845d02e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-[1px] border-[#81818166] border-solid my-3 rounded-[16px] p-2 bg-muted</value>
+      <webElementGuid>833da1af-673e-4153-9dda-cf751b0434b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Math</value>
+      <webElementGuid>9525bdbb-6cd0-437a-b660-9377fe272b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;flex w-full flex-col gap-4&quot;]/form[@class=&quot;space-y-2&quot;]/div[@class=&quot;rounded-lg border bg-card text-card-foreground shadow-sm&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;grid grid-cols-1&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;border-[1px] border-[#81818166] border-solid my-3 rounded-[16px] p-2 bg-muted&quot;]</value>
+      <webElementGuid>a73a266e-245b-41f6-b520-9b9f9ca67335</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[2]/form/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>d7e08bd4-374e-44b8-9eff-c40964375445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Math'])[1]/following::div[4]</value>
+      <webElementGuid>e0ed016d-f167-43e8-a80d-e295eaff92db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Subjects'])[1]/following::div[8]</value>
+      <webElementGuid>08d2d92c-0bd2-45c2-aa06-92aed432ed8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finish'])[1]/preceding::div[5]</value>
+      <webElementGuid>cbb7f493-deb4-44eb-a6fb-96eabdd7b620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>a99c6ff9-abe2-42cd-8cca-2e26ecfc3541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Math' or . = 'Math')]</value>
+      <webElementGuid>1f3bac1d-eeb6-44c2-8cef-b9882a3577ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

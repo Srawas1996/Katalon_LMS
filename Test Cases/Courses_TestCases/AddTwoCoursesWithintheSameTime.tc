@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddTwoCoursesWithintheSameTime</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>098a6dd0-8d5b-4058-969a-7609d9280b37</testCaseGuid>
+</TestCaseEntity>

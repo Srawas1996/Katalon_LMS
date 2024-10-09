@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check the Validation</name>
+   <tag></tag>
+   <elementGuidId>fbeb4ead-a0b0-4cf0-b4cf-d72611b101b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='A course with this combination of academic year, semester, subject, teacher, and group already exists.']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>607571f2-a853-4d33-8abb-19591664317b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r3n:-form-item-message</value>
+      <webElementGuid>70e356f7-cfd9-45bc-b122-47d9a6fd8b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-destructive</value>
+      <webElementGuid>3a2118df-4de0-4b25-ae65-d22cd3485309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A course with this combination of academic year, semester, subject, teacher, and group already exists.</value>
+      <webElementGuid>e21e7456-2bb1-4258-8cfb-1062863b742c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r3n:-form-item-message&quot;)</value>
+      <webElementGuid>9225e883-7732-4344-adad-3f58b6e5ffed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r3n:-form-item-message']</value>
+      <webElementGuid>706d5586-4ca8-4f0e-b5af-facce27a411c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r35:']/div/div/div/p</value>
+      <webElementGuid>878c951e-f204-42e0-b314-94bef78ede8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Math'])[2]/following::p[1]</value>
+      <webElementGuid>4b407f51-99d5-43d8-89c0-fc6603a04067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Math'])[1]/following::p[1]</value>
+      <webElementGuid>4a77b53b-3b3d-470f-856c-37ebf73fc94b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pages.subject.choose.teacher'])[1]/preceding::p[1]</value>
+      <webElementGuid>98890c18-1b27-4dde-bd23-706c5d94563c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wyatt Considine Barton Bartell'])[1]/preceding::p[1]</value>
+      <webElementGuid>b379f2f7-38d5-4cf3-8142-55bf61165935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A course with this combination of academic year, semester, subject, teacher, and group already exists.']/parent::*</value>
+      <webElementGuid>c41ba302-cb32-4c92-8183-0def191367c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5a74879c-fe34-4aa1-8581-bfaec48e6a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r3n:-form-item-message' and (text() = 'A course with this combination of academic year, semester, subject, teacher, and group already exists.' or . = 'A course with this combination of academic year, semester, subject, teacher, and group already exists.')]</value>
+      <webElementGuid>7c9e074f-22f3-4f5b-bf29-164fc7067f76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

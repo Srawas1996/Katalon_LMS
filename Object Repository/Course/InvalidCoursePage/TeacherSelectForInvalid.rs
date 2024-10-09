@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TeacherSelectForInvalid</name>
+   <tag></tag>
+   <elementGuidId>86762279-27e4-464b-a04e-49d272ec1eda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(text(),'Wyatt')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53a7f0b4-d387-4997-bfba-167bcc24a652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-1</value>
+      <webElementGuid>ab1a7799-9f57-4156-9270-7cf3dfdc1f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wyatt Considine Barton Bartell</value>
+      <webElementGuid>1e0cb4fd-3458-4d60-aaef-870a223b4741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r82:&quot;)/div[@class=&quot;flex items-center gap-1&quot;]</value>
+      <webElementGuid>3082ad67-43ab-4324-b9ff-fe33cc4c0457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r82:']/div</value>
+      <webElementGuid>a9348e51-4478-41c2-8aef-ad7737339841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marina Langworth Trantow Schinner'])[1]/following::div[2]</value>
+      <webElementGuid>01b44854-3c5e-46dd-a058-fa648707931b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Teacher...'])[1]/following::div[12]</value>
+      <webElementGuid>c72ce26f-bbf2-48e6-b647-70cce086fbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Milford Fritsch Nolan Predovic'])[1]/preceding::div[1]</value>
+      <webElementGuid>3b9e4520-d007-4520-8255-e8f4cc85243a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marisol Hammes Goldner Moore'])[1]/preceding::div[3]</value>
+      <webElementGuid>34867539-05d0-4b0c-b697-4e02ad769df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wyatt Considine Barton Bartell']/parent::*</value>
+      <webElementGuid>d8b2376f-1c10-4c42-a9a5-fd272018eafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>34e46694-9c8c-4db0-9de3-d6b368e42e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Wyatt Considine Barton Bartell' or . = 'Wyatt Considine Barton Bartell')]</value>
+      <webElementGuid>7ca2d6c1-9fd9-4780-b7a5-d15e9c333cc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

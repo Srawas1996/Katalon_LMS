@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>The Teacher field is required</name>
+   <tag></tag>
+   <elementGuidId>98819800-98d4-470d-884f-58ec23e815b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='The Teacher field is required.']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>da2ac50e-b2ed-4ffa-b076-3800802f3c8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r5a:-form-item-message</value>
+      <webElementGuid>7b58300a-ae86-4fd2-8c66-746fd5100ca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-destructive</value>
+      <webElementGuid>675f9767-26d5-429b-82ee-9af7b94a683c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Teacher field is required.</value>
+      <webElementGuid>1fa49a6b-b45b-4a8b-a32c-92b0c0b21d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r5a:-form-item-message&quot;)</value>
+      <webElementGuid>ac0ab673-4a62-4208-833c-b81237a44f33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r5a:-form-item-message']</value>
+      <webElementGuid>b774a5fb-5c8f-4618-bab2-afd7526715ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r4r:']/div/div/div[2]/p</value>
+      <webElementGuid>d7f562c6-84a5-4e3c-8df8-f3469aa02f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Teacher...'])[1]/following::p[1]</value>
+      <webElementGuid>8d0c1ea9-cbc3-4d2d-a04c-9a2cb0b3a650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pages.subject.choose.teacher'])[1]/following::p[1]</value>
+      <webElementGuid>3bcf656b-fc42-4be8-ae6e-e24c54dbca2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Description (EN)'])[1]/preceding::p[1]</value>
+      <webElementGuid>af493898-38fc-4f84-bc66-d8dee4bfee10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Description (EN)'])[2]/preceding::p[2]</value>
+      <webElementGuid>e6b5f04d-7e12-4945-9ff1-cb6c6071e024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Teacher field is required.']/parent::*</value>
+      <webElementGuid>9c4f51d7-2fb3-4222-8656-b3f4a41a267d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>9b047ace-c45b-4d5d-8365-f5cd90d5569c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r5a:-form-item-message' and (text() = 'The Teacher field is required.' or . = 'The Teacher field is required.')]</value>
+      <webElementGuid>f202db1e-05a3-45bc-b361-8ba695f40f2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

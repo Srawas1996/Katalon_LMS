@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>The Group Type field is required</name>
+   <tag></tag>
+   <elementGuidId>6b47b231-0ebc-4631-86ed-1d2ceeb0b095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='The Group Type field is required.']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>faf10ed3-cb84-4d8d-bc65-323e9ff32281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r53:-form-item-message</value>
+      <webElementGuid>139122bb-fde5-464a-855e-298bb27c4cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-destructive</value>
+      <webElementGuid>2d0dce4b-4f29-432a-98ee-5e30cd15868c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Group Type field is required.</value>
+      <webElementGuid>fef47d56-3196-418c-9e6e-601f3c22cf71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r53:-form-item-message&quot;)</value>
+      <webElementGuid>e315adf2-0004-40aa-8958-23407cd54073</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r53:-form-item-message']</value>
+      <webElementGuid>ddd99b1a-0d2f-4ec8-b204-dd93df61801d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r4r:']/div/div[2]/div[3]/p</value>
+      <webElementGuid>c57b302e-eb6f-4588-8eb6-e5095da02962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Year'])[4]/following::p[2]</value>
+      <webElementGuid>89e0c649-6221-4fef-8915-48afff9a0f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finish'])[1]/preceding::p[1]</value>
+      <webElementGuid>79ad32dc-d898-4ade-8b26-bae4fc373da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Group Type field is required.']/parent::*</value>
+      <webElementGuid>fc19a329-84a7-40d2-b35a-c2c7f6c482c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/p</value>
+      <webElementGuid>075bfed5-34c4-4b95-9e3e-b6c0b5f7ee1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r53:-form-item-message' and (text() = 'The Group Type field is required.' or . = 'The Group Type field is required.')]</value>
+      <webElementGuid>151add47-a9e0-4648-a9c1-03d490941b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DuplicateCourse_Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa2ff382-de26-47aa-8fc4-c71e8a6fcdac</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Courses</name>
+   <tag></tag>
+   <elementGuidId>b1040653-83d4-4555-8d4e-e5d76977c020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/settings/courses' and (text() = 'Courses' or . = 'Courses')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef5a76a5-32f2-40ec-a36e-e79d5de42ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-1 rounded items-center p-1 text-current justify-start hover:text-primary/70</value>
+      <webElementGuid>48c4dc3a-a0f9-4198-a162-fc85885bd7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>cc8a26bd-c0d9-42ff-a5b0-18d47d6d7b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/settings/courses</value>
+      <webElementGuid>929e9188-3d8a-411c-9067-ccfe02eba388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Courses</value>
+      <webElementGuid>adabcbcb-8b49-435d-b756-e4ce36df0536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen w-full flex-col bg-muted/50&quot;]/div[1]/aside[@class=&quot;fixed inset-y-0 border-y rounded-lg start-4 z-10 transition-all top-24 bottom-4 group w-[300px]&quot;]/div[@class=&quot;relative h-full flex-col w-full bg-background rounded-lg sm:flex hidden border-e&quot;]/div[@class=&quot;flex h-full&quot;]/div[@class=&quot;relative overflow-hidden h-full w-full p-4&quot;]/div[@class=&quot;h-full w-full rounded-[inherit] [&amp;>div]:h-full&quot;]/div[1]/nav[@class=&quot;flex flex-col items-start gap-4 sm:py-4 flex-1&quot;]/div[@class=&quot;w-full&quot;]/a[@class=&quot;flex gap-1 rounded items-center p-1 text-current justify-start hover:text-primary/70&quot;]</value>
+      <webElementGuid>7833d264-bc4f-4c40-96ac-7fe0296cbf58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/aside/div/div/div[2]/div/div/nav/div/a[7]</value>
+      <webElementGuid>f95b6a60-3fd9-42c6-aa54-9dda0ce8ec11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semester'])[1]/following::a[1]</value>
+      <webElementGuid>2199d5e6-6dc4-4f2a-b431-36487e45e8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curriculum'])[1]/following::a[2]</value>
+      <webElementGuid>9a041e6e-28c7-4ea0-9427-b56818b6f0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/preceding::a[1]</value>
+      <webElementGuid>95a1c9bd-2baf-4581-8bc0-3630a6d354cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/settings/courses')]</value>
+      <webElementGuid>de7bc58e-6a7c-4933-8a49-8a3061ee81ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]</value>
+      <webElementGuid>bbf33933-e4fc-4779-8896-b5f9fa4a718c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/settings/courses' and (text() = 'Courses' or . = 'Courses')]</value>
+      <webElementGuid>c61ae44d-6a79-45a3-b97d-1c74a072e1f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
