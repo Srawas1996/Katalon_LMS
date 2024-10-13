@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Subjects</name>
+   <tag></tag>
+   <elementGuidId>2a154121-de95-40ce-87d9-149fb868d0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Subjects')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cfcefa3-789f-44cd-b090-541fd3dd3b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm</value>
+      <webElementGuid>bf051a7f-a909-4d50-8f5e-68a216147931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subjects</value>
+      <webElementGuid>4241496f-2d64-4235-adf5-2e9e49693dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen w-full flex-col bg-muted/50&quot;]/div[1]/aside[@class=&quot;fixed inset-y-0 border-y rounded-lg start-4 z-10 transition-all top-24 bottom-4 group w-[300px]&quot;]/div[@class=&quot;relative h-full flex-col w-full bg-background rounded-lg sm:flex hidden border-e&quot;]/div[@class=&quot;flex h-full&quot;]/div[@class=&quot;relative overflow-hidden h-full w-full p-4&quot;]/div[@class=&quot;h-full w-full rounded-[inherit] [&amp;>div]:h-full&quot;]/div[1]/nav[@class=&quot;flex flex-col items-start gap-4 sm:py-4 flex-1&quot;]/div[@class=&quot;w-full&quot;]/a[@class=&quot;flex gap-1 rounded items-center p-1 text-current justify-start hover:text-primary/70&quot;]/span[@class=&quot;text-sm&quot;]</value>
+      <webElementGuid>ce705864-9266-4bf9-88ad-c7b62924be5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/aside/div/div/div[2]/div/div/nav/div/a[8]/span</value>
+      <webElementGuid>70d3008c-0aa8-4dce-8088-cb7040360162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[1]/following::span[1]</value>
+      <webElementGuid>e919fa1e-18a8-41ef-9208-eb6e48078bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semester'])[1]/following::span[2]</value>
+      <webElementGuid>5b42d3bf-9565-44ae-a4c1-4829efb95523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/preceding::span[1]</value>
+      <webElementGuid>9436708f-8cb4-4630-a411-f89aa51719d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Communication &amp; Collaboration'])[1]/preceding::span[2]</value>
+      <webElementGuid>a807e56d-f3f7-4110-97c4-5a0af0df6e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Subjects']/parent::*</value>
+      <webElementGuid>60575ea5-b484-47e0-9d7f-946b795b0c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]/span</value>
+      <webElementGuid>43d321eb-c39e-4cf6-85fd-119f6478a460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Subjects' or . = 'Subjects')]</value>
+      <webElementGuid>725a7de8-3335-4e99-aee3-14c22d99a74e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

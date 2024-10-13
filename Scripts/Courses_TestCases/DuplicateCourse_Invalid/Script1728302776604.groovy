@@ -22,6 +22,7 @@ import org.openqa.selenium.WebElement as WebElement
 import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.interactions.Actions as Actions
 
+
 WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
 
 WebUI.maximizeWindow()
@@ -48,7 +49,7 @@ WebUI.click(findTestObject('Course/Page_Add Courses/Select 2024-2025'))
 
 WebUI.click(findTestObject('Course/Page_Add Courses/button_Select Semester'))
 
-WebUI.click(findTestObject('Course/InvalidCoursePage/Select Semester two'))
+WebUI.click(findTestObject('Course/Page_Add Courses/Select Semester one'))
 
 WebUI.click(findTestObject('Course/Page_Add Courses/button_Next'))
 
@@ -78,22 +79,24 @@ int xOffset = ((sliderWidth * 1.5) as int)
 
 // Drag the slider by the calculated X offset
 for (int i = 0; i < 11; i++) {
-    actions.clickAndHold(sliderElement).moveByOffset(xOffset, 0).release().perform()
+	actions.clickAndHold(sliderElement).moveByOffset(xOffset, 0).release().perform()
 }
+
+WebUI.scrollToElement(findTestObject('Course/Page_Add Courses/button_Finish'), 0)
 
 WebUI.click(findTestObject('Course/Page_Add Courses/Select Teacher'))
 
-WebUI.sendKeys(findTestObject('Course/Page_Add Courses/Teacher_search'), 'Wyatt')
+WebUI.sendKeys(findTestObject('Course/Page_Add Courses/Teacher_search'), 'Salim AlRawas')
 
-WebUI.click(findTestObject('Course/InvalidCoursePage/TeacherSelectForInvalid'))
+WebUI.click(findTestObject('Course/Page_Add Courses/Select Salim AlRawas'))
 
 WebUI.click(findTestObject('Course/Page_Add Courses/GroupYearSelect'))
 
-WebUI.click(findTestObject('Course/InvalidCoursePage/Select Category'))
+WebUI.click(findTestObject('Course/Page_Add Courses/CategorySelect'))
 
-WebUI.click(findTestObject('Course/InvalidCoursePage/Select Grade two'))
+WebUI.click(findTestObject('Course/Page_Add Courses/GradeSelect'))
 
-WebUI.click(findTestObject('Course/InvalidCoursePage/Select The Section'))
+WebUI.click(findTestObject('Course/Page_Add Courses/SectionSelect'))
 
 WebUI.click(findTestObject('Course/Page_Add Courses/button_Finish'))
 

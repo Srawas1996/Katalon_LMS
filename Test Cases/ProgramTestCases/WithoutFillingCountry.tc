@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WithoutFillingCountry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5336580d-faf6-41d8-910f-ab84e40a0b29</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DuplicateNameProgram</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cff30866-54e7-4772-a1f5-bf2bfcb2380c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>The name dddd in ar language is already taken</name>
+   <tag></tag>
+   <elementGuidId>139dfa65-78e8-461c-a60b-66f74b9ac0b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Arabic Name'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>397c6c10-70dd-459f-8060-e28752e4b938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r2e:-form-item-message</value>
+      <webElementGuid>415873a5-e230-4667-98bf-ffcc0038c60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-destructive</value>
+      <webElementGuid>d4d806c0-b31a-4b36-8be0-715c6dae0f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The name 'dddd' in 'ar' language is already taken.</value>
+      <webElementGuid>ee6121ca-443a-4fb3-9aae-2251cbeb296c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r2e:-form-item-message&quot;)</value>
+      <webElementGuid>6e0ac8e5-596f-450a-a715-09610092f697</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r2e:-form-item-message']</value>
+      <webElementGuid>cecf328a-08cd-410a-bcc1-78861f6e26b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1e:']/div[2]/form/div/div[2]/p</value>
+      <webElementGuid>e32c3e20-7b53-4ea7-a47a-f90fc7223cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arabic Name'])[1]/following::p[1]</value>
+      <webElementGuid>c649a692-9a80-4733-be7b-04421064277d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English Name'])[1]/following::p[2]</value>
+      <webElementGuid>7f1a0b80-64c4-4221-95e5-5c5fcb347ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Type'])[2]/preceding::p[1]</value>
+      <webElementGuid>aed6724c-fa1a-4777-8ad1-1a9f78dc2d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National'])[9]/preceding::p[1]</value>
+      <webElementGuid>1fb32f46-bd66-47ae-8997-360915ef89b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>a667ed7c-f465-4f8b-b2af-3ea7e8c7aa8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r2e:-form-item-message' and (text() = concat(&quot;The name &quot; , &quot;'&quot; , &quot;dddd&quot; , &quot;'&quot; , &quot; in &quot; , &quot;'&quot; , &quot;ar&quot; , &quot;'&quot; , &quot; language is already taken.&quot;) or . = concat(&quot;The name &quot; , &quot;'&quot; , &quot;dddd&quot; , &quot;'&quot; , &quot; in &quot; , &quot;'&quot; , &quot;ar&quot; , &quot;'&quot; , &quot; language is already taken.&quot;))]</value>
+      <webElementGuid>b844596a-44cb-44b2-a7ea-07e79ab0d258</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -119,7 +119,6 @@ TestObject sliderObject2 = findTestObject('Object Repository/Course/SecondCourse
 
 WebElement sliderElement2 = WebUI.findWebElement(sliderObject2)
 
-
 // Get the size of the slider element to calculate how far to drag
 int sliderWidth2 = sliderElement2.getSize().width
 
@@ -128,7 +127,10 @@ int xOffset2 = ((sliderWidth2 * 1.5) as int)
 
 // Drag the slider by the calculated X offset
 for (int i = 0; i < 11; i++) {
-	actions.clickAndHold(sliderElement2).moveByOffset(xOffset2, 0).release().perform()
+    actions.clickAndHold(sliderElement2).moveByOffset(xOffset2, 0).release().perform()
 }
 
 WebUI.click(findTestObject('Course/Page_Add Courses/button_Finish'))
+
+WebUI.closeBrowser()
+

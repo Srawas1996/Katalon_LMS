@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WithoutFillingEnglishName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61c7f63b-5aca-4336-81f6-9c6be8fde303</testCaseGuid>
+</TestCaseEntity>

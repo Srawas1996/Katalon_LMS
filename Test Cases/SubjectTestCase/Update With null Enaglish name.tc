@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update With null Enaglish name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd7dc022-c078-4ae3-9264-2b2f54ea0d82</testCaseGuid>
+</TestCaseEntity>

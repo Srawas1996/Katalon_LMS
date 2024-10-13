@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>no.data.found</name>
+   <tag></tag>
+   <elementGuidId>b7767e3c-8f36-42b5-82c6-1b39e31128de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-xl.font-semibold.mt-2.mb-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'core.no.data.found')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>07ff486d-67e6-49a1-86c4-b7f83c181f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl font-semibold mt-2 mb-5</value>
+      <webElementGuid>ab7d9501-0171-494c-8782-d2667d943b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>core.no.data.found</value>
+      <webElementGuid>b8c39de9-ca20-49a3-ac5e-44da3303a092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;rounded-sm overflow-auto border relative w-full&quot;]/div[@class=&quot;relative w-full overflow-auto&quot;]/table[@class=&quot;w-full table-auto caption-bottom text-sm&quot;]/tbody[@class=&quot;[&amp;_tr:last-child]:border-0 bg-background&quot;]/tr[@class=&quot;w-full border-b transition-colors hover:bg-muted/50 data-[state=selected]:bg-muted&quot;]/td[@class=&quot;py-1 px-4 align-middle [&amp;:has([role=checkbox])]:pe-0 h-24 text-center&quot;]/div[@class=&quot;flex flex-col w-1/2 mx-auto h-96 items-center justify-center&quot;]/p[@class=&quot;text-xl font-semibold mt-2 mb-5&quot;]</value>
+      <webElementGuid>be5dcbb1-b706-4cc0-8be6-0f7de3368012</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[3]/div/div/table/tbody/tr/td/div/p</value>
+      <webElementGuid>3d03a3ee-039c-459b-9648-535b629e69b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created By'])[1]/following::p[1]</value>
+      <webElementGuid>5582b6ee-b1e7-40ef-8397-e496a6b9d5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created Date'])[1]/following::p[1]</value>
+      <webElementGuid>a12aa770-d03f-492c-a0bb-a9175b0bf15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='core.create.new Subjects'])[1]/preceding::p[1]</value>
+      <webElementGuid>6c6abda7-b779-4121-b6a3-24ee5241a0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='core.no.data.found']/parent::*</value>
+      <webElementGuid>1d8170ab-5954-46f9-92a5-32a0d492fcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>175f24e1-0787-49dd-8f91-af0598e67af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'core.no.data.found' or . = 'core.no.data.found')]</value>
+      <webElementGuid>78a7361f-d95b-4446-b4f8-227b190660d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

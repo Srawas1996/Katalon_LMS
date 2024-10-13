@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WithoutFillingTheData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d9542b8-eb72-4fbd-9b40-0acd0a3ea8ad</testCaseGuid>
+</TestCaseEntity>

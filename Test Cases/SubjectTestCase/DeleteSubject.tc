@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteSubject</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1ecc4dc-f62c-4f1f-bb2a-cf8fb30c5eb7</testCaseGuid>
+</TestCaseEntity>
