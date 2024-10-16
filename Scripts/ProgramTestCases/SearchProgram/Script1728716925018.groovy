@@ -39,6 +39,8 @@ WebUI.click(findTestObject('Program/Page_Programs/ResetButton'))
 
 WebUI.sendKeys(findTestObject('Program/Page_Programs/SearchBar'), 'ASC12')
 
+WebUI.delay(10)
+
 WebUI.verifyElementClickable(findTestObject('Program/Page_Programs/ThreeDotsFromProgram'))
 
 WebUI.closeBrowser()

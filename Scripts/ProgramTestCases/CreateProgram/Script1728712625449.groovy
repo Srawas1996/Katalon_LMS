@@ -47,6 +47,10 @@ WebUI.sendKeys(findTestObject('Program/Page_Programs/Countries_Program'), 'Jorda
 
 WebUI.click(findTestObject('Program/Page_Programs/Jordan'))
 
+WebUI.sendKeys(findTestObject('Program/Page_Programs/Countries_Program'), 'Palestine')
+
+WebUI.click(findTestObject('Object Repository/Program/Page_Programs/Palestine'))
+
 WebUI.click(findTestObject('Program/Page_Programs/Create_Button'))
 
 WebUI.verifyElementClickable(findTestObject('Program/Page_Programs/ThreeDotsFromProgram'))

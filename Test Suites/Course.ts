@@ -33,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>72ea5ef9-d196-44ee-ada4-f9db803cc063</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Courses_TestCases/DeleteTestCase</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>9ba3e65e-adc5-4f73-b413-43a589ed497a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -54,10 +61,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>72ea5ef9-d196-44ee-ada4-f9db803cc063</guid>
+      <guid>c6e40604-445e-410b-a80e-eb6d0bacc51e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Courses_TestCases/DeleteTestCase</testCaseId>
+      <testCaseId>Test Cases/Courses_TestCases/BulkTestCase</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

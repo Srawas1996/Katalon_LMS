@@ -45,6 +45,8 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Blooms/Page_Blooms 
 
 WebUI.sendKeys(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/BloomSearch'), "Salim")
 
+WebUI.delay(20)
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/BloomThreeDots'))
 
 WebUI.closeBrowser()

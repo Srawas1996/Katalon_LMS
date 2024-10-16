@@ -31,6 +31,8 @@ WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
 
+WebUI.click(findTestObject('Page_Home/SlideTheSttingBar'))
+
 WebUI.click(findTestObject('Object Repository/Program/Page_Programs/ThreeDotsFromProgram'))
 
 WebUI.click(findTestObject('Object Repository/Program/Page_Programs/Update_Button'))

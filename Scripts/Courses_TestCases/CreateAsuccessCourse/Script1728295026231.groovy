@@ -98,8 +98,9 @@ WebUI.click(findTestObject('Course/Page_Add Courses/GradeSelect'))
 WebUI.click(findTestObject('Course/Page_Add Courses/SectionSelect'))
 
 WebUI.click(findTestObject('Course/Page_Add Courses/button_Finish'))
+WebUI.delay(10)
 
-WebUI.waitForElementVisible(findTestObject('Course/CourseDetailsOption/ThreeDots'), 1)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Course/CourseDetailsOption/ThreeDots'))
 
 WebUI.closeBrowser()
 

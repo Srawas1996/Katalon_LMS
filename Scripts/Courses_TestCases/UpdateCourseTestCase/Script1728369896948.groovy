@@ -47,5 +47,9 @@ WebUI.sendKeys(findTestObject('Course/Page_Courses/Course Description (AR)'), 'A
 
 WebUI.click(findTestObject('Course/Page_Courses/button_Update'))
 
+WebUI.delay(10)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Course/CourseDetailsOption/ThreeDots'))
+
 WebUI.closeBrowser()
 

@@ -6,12 +6,11 @@
    <elementGuidId>bfe4440a-44b5-422c-adec-4ce1d99c4858</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Select Teacher...' or . = 'Select Teacher...')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dd6e4cf8-e465-4dac-b1ff-0568a810a99d</webElementGuid>
+      <webElementGuid>993f6bbe-08c4-4761-84ee-177226d679f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center whitespace-nowrap rounded-md text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border h-10 py-2 hover:bg-primary-15 w-full justify-between px-3 border-input bg-background relative text-muted-foreground font-normal</value>
-      <webElementGuid>e516b96d-2d0e-4e3c-a29b-1f8bd1b852fc</webElementGuid>
+      <webElementGuid>6cb65e5c-bbb7-41d1-8468-b3f5343ae86f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>46a77532-7896-403a-97e7-c352c8ec2692</webElementGuid>
+      <webElementGuid>8be2de19-4e99-4dc2-90ce-62fcda0acf81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3695519e-ac38-4810-bb7b-57cc9fbc0aea</webElementGuid>
+      <webElementGuid>1f76db81-f54b-4439-9369-90216dede4a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>62c67b45-b211-4151-a713-54a9a04d7e7d</webElementGuid>
+      <webElementGuid>3374c39e-82a1-4608-a385-1e546c7a1fda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>159eb44b-2052-4376-8562-e701100fc60d</webElementGuid>
+      <webElementGuid>9b470a5b-e76f-45db-b73f-7f1624d34a0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-:r6o:</value>
-      <webElementGuid>a0775ef2-fbf3-45f4-9d2f-22f77b8e8e1b</webElementGuid>
+      <webElementGuid>14b7a156-1c2c-4524-8f65-e35782b64071</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>89d14b77-dc75-4676-8e96-4528b6781a55</webElementGuid>
+      <webElementGuid>c1e7644d-1d29-4df7-97ff-d1fa2c0031cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Teacher...</value>
-      <webElementGuid>b36e6b60-c5c8-4124-a591-de1d16a13da7</webElementGuid>
+      <webElementGuid>165a3956-57b3-4795-9075-66f23978c797</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r6d:&quot;)/div[@class=&quot;pb-4 pt-0 flex m-2 gap-x-6&quot;]/div[@class=&quot;space-y-5 w-2/4&quot;]/div[@class=&quot;space-y-2&quot;]/button[@class=&quot;inline-flex items-center whitespace-nowrap rounded-md text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border h-10 py-2 hover:bg-primary-15 w-full justify-between px-3 border-input bg-background relative text-muted-foreground font-normal&quot;]</value>
-      <webElementGuid>2bd0587f-9bc6-4005-bb6c-0bfae06f7bb1</webElementGuid>
+      <webElementGuid>8f22d2e0-aa21-4ff2-afdb-7fce97149076</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>c9337c39-65d6-40d1-a015-ba3714eed751</webElementGuid>
+      <webElementGuid>f72688d0-2335-4b2c-99bf-9fcbf2ff776a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r6d:']/div/div/div[2]/button</value>
-      <webElementGuid>430148cc-0158-4e52-b835-c5f76d8e767e</webElementGuid>
+      <webElementGuid>9f1fca3a-56fc-4fc8-babe-f5015161cf5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='pages.subject.choose.teacher'])[1]/following::button[1]</value>
-      <webElementGuid>23af4aa7-10bc-4aa1-a60b-a9dfdabd3a35</webElementGuid>
+      <webElementGuid>ae396183-9e2c-4912-b9d3-e364963c03e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Islamic'])[2]/following::button[1]</value>
-      <webElementGuid>e38b62c8-e479-428d-b6e6-e95b2d4d6d30</webElementGuid>
+      <webElementGuid>36413fd9-ec0b-4b96-9352-5d9e6583c96c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Description (EN)'])[1]/preceding::button[1]</value>
-      <webElementGuid>4f6378ab-393f-4fc2-b215-199daa0dc8ad</webElementGuid>
+      <webElementGuid>ea7c6886-bfad-4797-9a36-179fad8bcddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Description (EN)'])[2]/preceding::button[1]</value>
-      <webElementGuid>f53109cd-29bf-44cb-a244-3d23f4994a4c</webElementGuid>
+      <webElementGuid>f5235d6b-3c3d-4d27-bb9f-0be7ec80204d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Select Teacher...']/parent::*</value>
-      <webElementGuid>3222f904-9281-4249-a58d-790d87071b2e</webElementGuid>
+      <webElementGuid>1b5ff3cb-d31d-4524-8ffd-a1dbec1396e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div[2]/button</value>
-      <webElementGuid>879d281b-f3aa-4d76-b403-46dfdafdadc4</webElementGuid>
+      <webElementGuid>2be785bc-e571-4c85-8019-e470ba118f31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Select Teacher...' or . = 'Select Teacher...')]</value>
-      <webElementGuid>f4b520e6-e7b7-4a6b-b363-99d3b3ef9123</webElementGuid>
+      <webElementGuid>5d77e5db-b809-4aa3-a6c6-ae6b6777cc71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -39,12 +39,13 @@ WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/BloomThreeDots'))
 
 WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/Update button'))
 
-WebUI.sendKeys(findTestObject('Blooms/Page_Blooms Taxonomy/Update English Name'), 'Update AlRawas')
+WebUI.setText(findTestObject('Blooms/Page_Blooms Taxonomy/Update English Name'), 'Update AlRawas')
 
-WebUI.sendKeys(findTestObject('Blooms/Page_Blooms Taxonomy/Update Arabic Name'), 'تعديل الرواس')
+WebUI.setText(findTestObject('Blooms/Page_Blooms Taxonomy/Update Arabic Name'), 'تعديل الرواس')
 
 WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/button_Update'))
 
+WebUI.delay(10)
 WebUI.waitForElementClickable(findTestObject('Blooms/Page_Blooms Taxonomy/BloomThreeDots'), 1)
 
 WebUI.closeBrowser()

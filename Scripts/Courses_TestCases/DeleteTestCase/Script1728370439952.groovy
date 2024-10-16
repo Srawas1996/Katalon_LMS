@@ -43,4 +43,8 @@ WebUI.click(findTestObject('Object Repository/Course/CourseDetailsOption/Delete'
 
 WebUI.click(findTestObject('Object Repository/Course/DeleteCoursePop_Page/button_Yes Delete'))
 
+WebUI.delay(20)
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Course/CourseDetailsOption/ThreeDots'))
+
 WebUI.closeBrowser()

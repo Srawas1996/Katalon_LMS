@@ -41,5 +41,7 @@ WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/Delete Button'))
 
 WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/button_Yes Delete'))
 
+WebUI.delay(20)
+
 WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 

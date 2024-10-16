@@ -6,12 +6,11 @@
    <elementGuidId>73ea9886-dba1-469f-b200-02848c60c73d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Select...')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[(text() = 'Search Program Type...')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a7508942-d97b-42a1-8052-229ff2e16223</webElementGuid>
+      <webElementGuid>cdbc54bd-a308-401c-b4e2-f1e8ff53fd87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center whitespace-nowrap rounded-md text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border h-10 py-2 hover:bg-primary-15 w-full justify-between px-3 border-input bg-background relative text-muted-foreground font-normal</value>
-      <webElementGuid>d0ff1a14-3ea9-4eb5-acee-5480e6f9d6b3</webElementGuid>
+      <webElementGuid>e56e3928-cc1a-458a-94ce-42818e4e7b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>cc116864-21a3-4e75-974a-fc9eb7a54387</webElementGuid>
+      <webElementGuid>0f704426-b248-4450-b677-888ae28a870f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6db096bc-386c-43d3-ba85-504847bd275c</webElementGuid>
+      <webElementGuid>18a7884b-8631-4101-8c3d-6751819468db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7dc3c5a9-8619-4f33-b72f-4f9c16e4b14d</webElementGuid>
+      <webElementGuid>d11a9c16-4741-4bdd-bbd0-9c5e2b4cf683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>0044ee9c-408f-40ca-a00f-8c3ea7e52b6f</webElementGuid>
+      <webElementGuid>631721f8-e486-4f14-ab22-81fab302efa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-:r2i:</value>
-      <webElementGuid>dba8f963-8943-4958-80fe-cf8d6c2740dd</webElementGuid>
+      <webElementGuid>8abe9f25-2ba7-4c5b-8467-fcd0c8c5600f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>open</value>
-      <webElementGuid>28393a2a-c4f1-47f7-b0e6-c42a40a9f157</webElementGuid>
+      <webElementGuid>a36be5be-b423-4dff-9e32-be9805be4437</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search Program Type...</value>
-      <webElementGuid>0bdbfcf3-de5e-4769-aa53-7610fc86d44c</webElementGuid>
+      <webElementGuid>f9bc8e82-d89a-4eac-822f-137fd658cff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r1e:&quot;)/div[@class=&quot;flex-1 overflow-y-auto overflow-x-visible px-1&quot;]/form[@class=&quot;space-y-8&quot;]/div[@class=&quot;grid grid-cols-2 gap-6&quot;]/div[@class=&quot;space-y-1&quot;]/button[@class=&quot;inline-flex items-center whitespace-nowrap rounded-md text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border h-10 py-2 hover:bg-primary-15 w-full justify-between px-3 border-input bg-background relative text-muted-foreground font-normal&quot;]</value>
-      <webElementGuid>bda01aab-9ee4-4e04-a135-0926a1a757d8</webElementGuid>
+      <webElementGuid>3b435003-4fd1-4d96-8936-664d5b198437</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[27]</value>
-      <webElementGuid>c509e1f3-3044-49f3-996a-05d43342dec8</webElementGuid>
+      <webElementGuid>982e3299-90bc-4f86-9159-616a5658b963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r1e:']/div[2]/form/div/div[3]/button</value>
-      <webElementGuid>8e5e327f-7f7b-4265-be66-e6a23cc99f59</webElementGuid>
+      <webElementGuid>6fc0e365-3d52-4d1f-9eb0-91558f9f35b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Type'])[2]/following::button[1]</value>
-      <webElementGuid>33c54ab4-1594-4301-ae5b-e3acd6030f40</webElementGuid>
+      <webElementGuid>0cc1e5e1-d5f9-4982-883d-6b59db7b78d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Arabic Name'])[1]/following::button[1]</value>
-      <webElementGuid>4ba7851c-066a-4aef-a045-efef2b564a27</webElementGuid>
+      <webElementGuid>b108cd73-3080-4703-aa49-59b4d62f75eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='National'])[10]/preceding::button[1]</value>
-      <webElementGuid>f2c654d3-f5e0-4d74-91af-83bf8fff339c</webElementGuid>
+      <webElementGuid>901d7bdc-ce83-4f73-bc35-9391c18706ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='International'])[2]/preceding::button[1]</value>
-      <webElementGuid>7b272616-881b-4f2e-86b6-5fd299c75d42</webElementGuid>
+      <webElementGuid>f0a5489d-dca0-483b-847a-cc4245218a15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search Program Type...']/parent::*</value>
-      <webElementGuid>ddebde3e-01d4-4126-a9cb-f5e9d5a9c774</webElementGuid>
+      <webElementGuid>f8c878b7-dbfc-4857-85bb-11061cfbcb2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[3]/button</value>
-      <webElementGuid>ba0348d4-f7cf-48fb-b44d-04dac6832065</webElementGuid>
+      <webElementGuid>7b351d98-b145-44f7-baf6-1d3c61b7c53a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Search Program Type...' or . = 'Search Program Type...')]</value>
-      <webElementGuid>81c06feb-6676-4d13-8c7f-f2478d973849</webElementGuid>
+      <webElementGuid>72c6dfc0-ae1d-409c-8f13-0a949da2e3e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

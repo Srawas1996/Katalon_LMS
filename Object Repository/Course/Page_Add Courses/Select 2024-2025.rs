@@ -6,12 +6,11 @@
    <elementGuidId>41eeb0de-a7c4-493c-abfd-c1eb20e86817</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Academic Year...'])[1]/following::div[9]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[(text() = '2024/2025' or . = '2024/2025')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a4138490-eb75-4a49-b0cc-f7e97c6d115f</webElementGuid>
+      <webElementGuid>bf19163e-8ef4-4642-9432-21533579fd56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex text-secondary cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled=true]:pointer-events-none data-[disabled=true]:opacity-50</value>
-      <webElementGuid>883ff4c6-ede4-4264-a7be-2b55578ae087</webElementGuid>
+      <webElementGuid>5300f46a-4629-44aa-b04d-9ae39b31ba5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r2l:</value>
-      <webElementGuid>0481e235-d19c-4405-ba3d-21d62e95ba42</webElementGuid>
+      <webElementGuid>0eba657d-c437-40bb-87f8-bea54b932a6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>557b130a-aa7a-447e-9248-881e316e6018</webElementGuid>
+      <webElementGuid>9a798eff-f74b-4857-9d77-e305a229b0e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2e663b4f-1cd0-46b0-b615-69506e75d00a</webElementGuid>
+      <webElementGuid>ab5b903b-64b5-42f7-bd69-bc9a88bbf0fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ce29ac4a-5425-4260-86c6-703a6b9508d4</webElementGuid>
+      <webElementGuid>4bb96bff-53cd-41eb-9f21-905bcc08304c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>data-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9bf6424a-bc92-4c3b-a45c-1e197e0478e2</webElementGuid>
+      <webElementGuid>7dcb6956-a8dc-4e62-abee-515335a57efc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5fdd3139-c9f2-41ba-9131-246ecae1b420</webElementGuid>
+      <webElementGuid>bda5e7eb-c5fe-4994-b6f4-4d5a28128ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>23</value>
-      <webElementGuid>5e09dea6-74dc-47ff-bef2-e206042bb815</webElementGuid>
+      <webElementGuid>950a622b-0aad-4567-abb5-08daa2732072</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +94,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2024/2025</value>
-      <webElementGuid>e50385bd-e766-4276-862a-44a04c87a500</webElementGuid>
+      <webElementGuid>7c120535-43b8-4e48-a35a-55a1d1dd9a16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r2l:&quot;)</value>
-      <webElementGuid>dd837ee7-6eed-4965-8afa-e216fca8b027</webElementGuid>
+      <webElementGuid>ccf903cf-cd9d-452b-8243-deb3a8dbf80d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id=':r2l:']</value>
-      <webElementGuid>a77c7690-394c-4297-a669-41c4fd148c06</webElementGuid>
+      <webElementGuid>77f5a292-5f06-49e6-9745-45730b246120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id=':r2g:']/div/div/div/div</value>
-      <webElementGuid>bcb9f4e7-a5b9-4267-ad09-6a87f857ec23</webElementGuid>
+      <webElementGuid>307b68c7-dff7-45d1-933d-149164f87f48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Academic Year...'])[1]/following::div[9]</value>
-      <webElementGuid>615312e8-45d4-4af4-84ee-78e287788452</webElementGuid>
+      <webElementGuid>545264ce-aa66-4f1e-a623-ae1aeee07665</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Year'])[1]/following::div[9]</value>
-      <webElementGuid>bf409538-c453-4765-aa2e-f2ec92963c6b</webElementGuid>
+      <webElementGuid>7dca240c-1c6e-45be-898f-f768637e08a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='asdy'])[1]/preceding::div[16]</value>
-      <webElementGuid>ae06d799-f9cc-4f48-bcbe-14e3c5c0f9c7</webElementGuid>
+      <webElementGuid>7080f485-6fb2-4a02-92a5-fe650408ce99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Semester'])[2]/preceding::div[18]</value>
-      <webElementGuid>40394920-df9e-494a-ade3-506925d3ed28</webElementGuid>
+      <webElementGuid>bc554737-1554-4f4f-916b-1d9da290269f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div/div/div</value>
-      <webElementGuid>b736963d-e0d3-4ac5-8265-d9754793d1ce</webElementGuid>
+      <webElementGuid>977abb42-5df0-4684-99ea-49a27f25c5a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = ':r2l:' and (text() = '2024/2025' or . = '2024/2025')]</value>
-      <webElementGuid>126bb290-5fcd-45c1-b430-4a4c7f9ba817</webElementGuid>
+      <webElementGuid>2c93a8bb-e13b-4728-8744-2e1e95508886</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -43,5 +43,7 @@ WebUI.sendKeys(findTestObject('Blooms/Page_Blooms Taxonomy/input_Arabic'), 'ال
 
 WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/button_Create'))
 
+WebUI.delay(20)
+
 WebUI.closeBrowser()
 

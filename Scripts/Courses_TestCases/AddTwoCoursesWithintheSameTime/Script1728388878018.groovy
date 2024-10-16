@@ -132,5 +132,8 @@ for (int i = 0; i < 11; i++) {
 
 WebUI.click(findTestObject('Course/Page_Add Courses/button_Finish'))
 
+WebUI.delay(10)
+WebUI.verifyElementClickable(findTestObject('Object Repository/Course/CourseDetailsOption/ThreeDots'))
+
 WebUI.closeBrowser()
 
