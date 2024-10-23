@@ -17,19 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
-
-WebUI.maximizeWindow()
-
-WebUI.deleteAllCookies()
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
-
-WebUI.setEncryptedText(findTestObject('Login/Page_Login/password'), 'RigbBhfdqOBGNlJIWM1ClA==')
-
-WebUI.click(findTestObject('Login/Page_Login/Sign In'))
-
-WebUI.verifyElementVisible(findTestObject('Login/Page_Home/CheckTheHomePageTitle'))
 
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
@@ -68,6 +55,3 @@ WebUI.verifyElementText(findTestObject('Course/WithoutFillingTheData/The Group f
 WebUI.verifyElementText(findTestObject('Course/WithoutFillingTheData/The Group Type field is required'), 'The Group Type field is required.')
 
 WebUI.verifyElementText(findTestObject('Course/WithoutFillingTheData/The Teacher field is required'), 'The Teacher field is required.')
-
-WebUI.closeBrowser()
-

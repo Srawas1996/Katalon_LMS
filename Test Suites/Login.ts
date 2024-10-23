@@ -29,14 +29,7 @@
       <guid>20a6989c-abb0-4cab-a223-a06b9613ffa1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCases/Invalid_Login/invalidLogin3</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>baa4166c-1ada-4048-b87a-71f3f999dbe5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCases/ValidLogin</testCaseId>
+      <testCaseId>Test Cases/Login_TestCases/Invalid_Login/InvalidLogin3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

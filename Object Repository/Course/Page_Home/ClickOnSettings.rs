@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>84af0df0-5481-445d-8607-a78d04bd74e9</webElementGuid>
+      <webElementGuid>e9870171-66e8-47d6-aa45-38a31ad5523f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-2 flex gap-1 rounded-sm items-center hover:text-primary/70 transition-colors bg-black/20 text-primary</value>
-      <webElementGuid>58174025-a292-4cea-9cb3-81efc8b9bb9e</webElementGuid>
+      <webElementGuid>4693ed47-aba3-4921-b782-f6f1ffcedfd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>117f398d-ce30-4902-a86f-a6d20f55cabd</webElementGuid>
+      <webElementGuid>eced6348-2b6f-4012-a767-6493fe388de6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen w-full flex-col bg-muted/50&quot;]/div[1]/aside[@class=&quot;fixed inset-y-0 border-y rounded-lg start-4 z-10 transition-all top-24 bottom-4 group w-[300px]&quot;]/div[@class=&quot;relative h-full flex-col w-full bg-background rounded-lg sm:flex hidden border-e&quot;]/div[@class=&quot;flex h-full&quot;]/div[@class=&quot;h-full flex flex-col p-4 rounded-lg transition-all bg-primary&quot;]/nav[@class=&quot;flex flex-col items-start gap-4 flex-1&quot;]/button[10]/div[@class=&quot;w-full p-2 flex gap-1 rounded-sm items-center hover:text-primary/70 transition-colors bg-black/20 text-primary&quot;]</value>
-      <webElementGuid>bd26837e-21cf-4ce7-aa93-bf61aec9f0e5</webElementGuid>
+      <webElementGuid>3121a17a-0cd4-4971-bc94-723309700b88</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/aside/div/div/div/nav/button[10]/div</value>
-      <webElementGuid>a1f6f6fa-52b7-4ea9-bb9c-ed37c9336203</webElementGuid>
+      <webElementGuid>8ec8a70a-7d2d-4497-99fd-2ebca7010526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OO'])[1]/following::div[13]</value>
-      <webElementGuid>e9e4130b-e6ac-4696-a96f-ee5c1425c9d0</webElementGuid>
+      <webElementGuid>f729cb7b-c29f-4c99-8f01-f43eed8afc18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='⌘K'])[1]/following::div[16]</value>
-      <webElementGuid>4bcb63d9-8133-4d22-b1b8-a21775fcaf02</webElementGuid>
+      <webElementGuid>a65e96ed-f530-44aa-84ba-ee5518a1bce4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::div[1]</value>
-      <webElementGuid>55edead8-8b20-4bd9-8ea3-4f7d1eeac9d2</webElementGuid>
+      <webElementGuid>86ea8947-5e9d-45a9-8e48-709968f35576</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Countries'])[1]/preceding::div[1]</value>
-      <webElementGuid>f4b9cd30-71dd-420f-96a3-83cfdc254010</webElementGuid>
+      <webElementGuid>98934e89-02d1-433b-ba69-ab069d4e87c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +94,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[10]/div</value>
-      <webElementGuid>923217b7-af5d-46dd-beb8-6917012f235d</webElementGuid>
+      <webElementGuid>06fd00be-7242-412b-9a99-f57673f8e7e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,19 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
-
-WebUI.maximizeWindow()
-
-WebUI.deleteAllCookies()
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/password'), '12345678')
-
-WebUI.click(findTestObject('Login/Page_Login/Sign In'))
-
-WebUI.verifyElementVisible(findTestObject('Login/Page_Home/CheckTheHomePageTitle'))
 
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
@@ -37,7 +24,7 @@ WebUI.click(findTestObject('Blooms/Page_Home/Blooms Taxonomy'))
 
 WebUI.sendKeys(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/BloomSearch'), "My Blooms")
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/no.data.found'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/No Data is found'))
 
 WebUI.click(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/button_Reset'))
 
@@ -48,5 +35,3 @@ WebUI.sendKeys(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/Blo
 WebUI.delay(20)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/BloomThreeDots'))
-
-WebUI.closeBrowser()

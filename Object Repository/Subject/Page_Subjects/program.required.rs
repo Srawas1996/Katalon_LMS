@@ -6,12 +6,11 @@
    <elementGuidId>c8d0db91-3183-4ff8-8e98-4a3888a051c7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Program is required')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//p[(text() = 'core.program.required')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>27c4726e-9fa7-4cd9-98b7-9883b9640945</webElementGuid>
+      <webElementGuid>a2a1afa6-658f-4116-ae97-bcb6de74edf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r2e:-form-item-message</value>
-      <webElementGuid>804809bb-6845-44ce-ad0c-a977b3748868</webElementGuid>
+      <webElementGuid>35df1a25-5b32-49f1-8b2a-be75fcd77122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-sm font-medium text-destructive</value>
-      <webElementGuid>2879f7bc-a126-4f6c-b883-262e5cf752a8</webElementGuid>
+      <webElementGuid>e00ff435-8246-4561-aece-a5c963e44c6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>core.program.required</value>
-      <webElementGuid>469551cd-409b-4fca-8ec1-707c0d805841</webElementGuid>
+      <webElementGuid>44fd3c9f-add3-46af-afc1-8fa5f31306a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r2e:-form-item-message&quot;)</value>
-      <webElementGuid>20c14a7c-befa-4f69-b045-c29f6297dce1</webElementGuid>
+      <webElementGuid>0bc714e5-1b8f-4a7d-af7e-adde697b465b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id=':r2e:-form-item-message']</value>
-      <webElementGuid>024bbe4b-0d37-4d82-be1b-6eae7bf74d50</webElementGuid>
+      <webElementGuid>8489dd2f-20e7-43ae-b3cf-ebf9a897385e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r1e:']/div[2]/form/div/div[3]/p</value>
-      <webElementGuid>3e4f6dee-6f19-4ada-beff-51f1384853ca</webElementGuid>
+      <webElementGuid>5ece8eac-7579-4426-b125-876beabf13bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search in Programs...'])[1]/following::p[1]</value>
-      <webElementGuid>e023bee1-4948-45db-a6b8-52a18271341f</webElementGuid>
+      <webElementGuid>dbe5d534-c1d6-4f53-ac06-81e65667b6eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/following::p[1]</value>
-      <webElementGuid>9c4bd931-6288-445e-8471-0ad8534b2d1f</webElementGuid>
+      <webElementGuid>c7257f43-02b6-4c52-8a4d-665b001e9cb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon (optional)'])[1]/preceding::p[1]</value>
-      <webElementGuid>e5da527e-99ed-4453-a7ff-464c41b347a9</webElementGuid>
+      <webElementGuid>7e9fef7d-fdc8-4c49-8a95-25e05c34ccbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to upload'])[1]/preceding::p[1]</value>
-      <webElementGuid>de2da1a0-055f-45da-8683-b03daebb90dc</webElementGuid>
+      <webElementGuid>23a8c9a4-97dc-4a79-b1cf-5392f56aae9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='core.program.required']/parent::*</value>
-      <webElementGuid>35383649-ecd3-4efd-bb65-2cf7af1dc4e5</webElementGuid>
+      <webElementGuid>0269727b-6a93-4840-bc97-a788f3b07c21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/p</value>
-      <webElementGuid>be9611a2-2ad4-4edd-adff-18e6fb4cad9f</webElementGuid>
+      <webElementGuid>c8d8b1a0-e899-46ac-976d-0f6f4c8c363f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = ':r2e:-form-item-message' and (text() = 'core.program.required' or . = 'core.program.required')]</value>
-      <webElementGuid>b708d51b-822f-413e-8125-b18de390c61e</webElementGuid>
+      <webElementGuid>e7633650-4d74-465b-a914-d0c5b68351ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

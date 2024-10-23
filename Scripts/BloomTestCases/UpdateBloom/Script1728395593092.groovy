@@ -17,19 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
-
-WebUI.maximizeWindow()
-
-WebUI.deleteAllCookies()
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/password'), '12345678')
-
-WebUI.click(findTestObject('Login/Page_Login/Sign In'))
-
-WebUI.verifyElementVisible(findTestObject('Login/Page_Home/CheckTheHomePageTitle'))
 
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
@@ -48,5 +35,4 @@ WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/button_Update'))
 WebUI.delay(10)
 WebUI.waitForElementClickable(findTestObject('Blooms/Page_Blooms Taxonomy/BloomThreeDots'), 1)
 
-WebUI.closeBrowser()
 

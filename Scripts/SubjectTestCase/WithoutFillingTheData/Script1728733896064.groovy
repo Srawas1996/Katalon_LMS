@@ -18,17 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
-
-WebUI.maximizeWindow()
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/password'), '12345678')
-
-WebUI.click(findTestObject('Login/Page_Login/Sign In'))
-
-WebUI.verifyElementVisible(findTestObject('Login/Page_Home/CheckTheHomePageTitle'))
 
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
@@ -38,11 +27,8 @@ WebUI.click(findTestObject('Subject/Page_Subjects/PlusSign'))
 
 WebUI.click(findTestObject('Subject/Page_Subjects/button_Create'))
 
-WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/Arabic.name.required'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/Arabic Name is required'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/English.name.required'))
+WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/English Name is required'))
 
 WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/program.required'))
-
-WebUI.closeBrowser()
-

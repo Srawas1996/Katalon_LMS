@@ -17,18 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
-
-WebUI.maximizeWindow()
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/password'), '12345678')
-
-WebUI.click(findTestObject('Login/Page_Login/Sign In'))
-
-WebUI.verifyElementVisible(findTestObject('Login/Page_Home/CheckTheHomePageTitle'))
-
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
@@ -37,8 +25,4 @@ WebUI.click(findTestObject('Program/Page_Programs/ClickOnPlusSign'))
 
 WebUI.click(findTestObject('Object Repository/Program/Page_Programs/Create_Button'))
 
-WebUI.verifyElementVisible(findTestObject('Program/Page_Programs/p_core.arabic.name.required'))
-
-
-WebUI.closeBrowser()
-
+WebUI.verifyElementVisible(findTestObject('Program/Page_Programs/Arabic name is required'))
