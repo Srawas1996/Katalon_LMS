@@ -101,6 +101,5 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.delay(10)
 
-
-WebUI.verifyElementPresent(findTestObject('Semester/Over Lap Semester Validation'), 0)
+WebUI.verifyElementText(findTestObject('Semester/Over Lap Semester Validation'), 'The date range overlaps with an existing record.')
 

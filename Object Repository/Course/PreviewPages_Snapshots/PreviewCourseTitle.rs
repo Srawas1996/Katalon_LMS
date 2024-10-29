@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id = 'radix-:r2j:' and (text() = 'Preview Course' or . = 'Preview Course')]</value>
+         <value>//h2[(text() = 'Preview Course' or . = 'Preview Course')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>c371561d-9936-4335-98cd-6ef15e91dcec</webElementGuid>
+      <webElementGuid>8c11b8fc-e7ff-41f6-b649-48a5f9100327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radix-:r2j:</value>
-      <webElementGuid>ce8c6d38-70d0-4711-b3f9-482be2d9615d</webElementGuid>
+      <webElementGuid>45929791-92c3-4b40-baac-7f5ce3c5a84b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-lg font-semibold text-primary-40</value>
-      <webElementGuid>de8ddb67-fcbc-499f-a53b-3c79479f7082</webElementGuid>
+      <webElementGuid>9bfacadc-70f6-4771-86e3-ff89746a14c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Preview Course</value>
-      <webElementGuid>6cb1d3dd-a39c-453a-845a-9af2a058ece4</webElementGuid>
+      <webElementGuid>eacd84b5-2862-495e-a3e0-e9d3e453cba7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r2j:&quot;)</value>
-      <webElementGuid>c790e71e-a045-4ed9-942b-96cd217dfea8</webElementGuid>
+      <webElementGuid>2bc2bdbb-ecb3-4164-94d1-a2195b771d90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='radix-:r2j:']</value>
-      <webElementGuid>33903ab3-45c5-4678-bb3b-f3784109f012</webElementGuid>
+      <webElementGuid>7133d738-890f-403e-8f01-8c7c3ed9415a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r2i:']/div/h2</value>
-      <webElementGuid>44cb2263-221f-41a8-8d0b-4628ff238fa5</webElementGuid>
+      <webElementGuid>2488e8bb-54ce-42ce-b98f-d5836150ab51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::h2[1]</value>
-      <webElementGuid>9dfa6ac9-d317-404a-8f2c-1ceb5126721b</webElementGuid>
+      <webElementGuid>58f6c774-4b28-46d4-94ac-8bbd585d0b13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Year'])[1]/preceding::h2[1]</value>
-      <webElementGuid>ab51caf7-30c1-4041-9516-b8f117eb5bc8</webElementGuid>
+      <webElementGuid>92b941f9-ea7f-4825-9397-606b9ba6494b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Semester'])[2]/preceding::h2[1]</value>
-      <webElementGuid>5a185dd9-7204-4df6-a199-9c98c03b5867</webElementGuid>
+      <webElementGuid>8554d3d7-94ad-4a37-81b2-a5b002603f64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Preview Course']/parent::*</value>
-      <webElementGuid>d401156e-728a-4617-a9ac-e65fb4d63470</webElementGuid>
+      <webElementGuid>437787be-2114-4073-bee7-e4a73e96fe86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>139e806f-f52b-4f74-9ebf-546261c8e430</webElementGuid>
+      <webElementGuid>2f9805c0-bc43-425d-b002-4e9672be49fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'radix-:r2j:' and (text() = 'Preview Course' or . = 'Preview Course')]</value>
-      <webElementGuid>1bb1332b-93d1-4040-8a48-635c69d25604</webElementGuid>
+      <webElementGuid>c399e202-e087-4ba9-8f5f-59e889c3f55d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

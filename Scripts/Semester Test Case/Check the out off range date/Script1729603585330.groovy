@@ -95,5 +95,5 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.delay(10)
 
-WebUI.verifyElementPresent(findTestObject('Semester/Outside the date range'), 0)
+WebUI.verifyElementText(findTestObject('Semester/Outside the date range'), 'The semester\'s date range is outside the academic year\'s date range.')
 
