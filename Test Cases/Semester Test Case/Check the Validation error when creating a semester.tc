@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check the Validation error when creating a semester</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46470f8b-7205-47d3-a571-97da7f2e769e</testCaseGuid>
+</TestCaseEntity>

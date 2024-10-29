@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Update</name>
+   <name>Semesters from Academic year</name>
    <tag></tag>
-   <elementGuidId>73baef41-7253-4749-b4d2-c4c9b688be6c</elementGuidId>
+   <elementGuidId>7d3ea815-e70f-476d-a6dc-d3f4f0d507f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
+         <value>//div[(text() = 'Semesters' or . = 'Semesters')]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e46268dd-6627-4af0-8b7a-d4e7a9d956ba</webElementGuid>
+      <webElementGuid>c33f0d46-13ea-4987-9230-1e8e56920acb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +31,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>245a3e7a-7210-4e49-84d7-bcaf53f9a64c</webElementGuid>
+      <webElementGuid>2bfce6c6-2699-4976-b2e0-dc787f2ce6e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none transition-colors focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50 gap-1</value>
-      <webElementGuid>070896b5-8c6b-41ea-bf23-49de30035a45</webElementGuid>
+      <webElementGuid>b7baddac-6dbd-4dd6-bb9c-3c2e6f42d1f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +47,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>813c1fe5-c85a-4f13-b303-63ab6643d9fa</webElementGuid>
+      <webElementGuid>2d11e868-e502-488d-9fc2-46aad5d6b361</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,78 +55,78 @@
       <name>data-orientation</name>
       <type>Main</type>
       <value>vertical</value>
-      <webElementGuid>33b98ec6-7d0e-4424-a21e-0b509d844d94</webElementGuid>
+      <webElementGuid>686d4a8f-ec99-4d77-94e2-5d4a2a571416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Update</value>
-      <webElementGuid>6450999f-8a50-4b80-b176-490c7afb4bae</webElementGuid>
+      <value>Semesters</value>
+      <webElementGuid>9e68f28e-0eec-4772-a591-1b98e556b7e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:rv:&quot;)/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none transition-colors focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50 gap-1&quot;]</value>
-      <webElementGuid>ff59becb-8d55-4121-9d14-1c17fc16c48d</webElementGuid>
+      <value>id(&quot;radix-:r1j:&quot;)/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none transition-colors focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50 gap-1&quot;]</value>
+      <webElementGuid>35ee7a22-44ce-4d0e-bcb3-c1ba0e999f74</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-:rv:']/div[2]</value>
-      <webElementGuid>d46f4927-0c41-4768-9653-0a1cef7cf846</webElementGuid>
+      <value>//div[@id='radix-:r1j:']/div</value>
+      <webElementGuid>a3865518-1cd4-4ebd-98a3-c927fda8ed8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semesters'])[1]/following::div[1]</value>
-      <webElementGuid>4ca2c8ed-46e0-4d9c-ba2a-254f52430849</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
+      <webElementGuid>457a3433-3858-462c-8b2e-5653d78d083b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[4]</value>
-      <webElementGuid>570995ab-8e31-485f-9d60-73975833e80b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::div[1]</value>
+      <webElementGuid>f30fd85c-141b-42d1-a600-31b4bd946147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[2]</value>
-      <webElementGuid>a06915a3-22d0-4f55-a3d4-6c4396adec27</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[3]</value>
+      <webElementGuid>1241686e-6bd9-4a72-a1d3-97aab46e7cf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
-      <webElementGuid>879c48ce-b3c4-4119-86f4-8e37c8e97ec7</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Semesters']/parent::*</value>
+      <webElementGuid>3cd5688c-43f6-4780-9d83-ca19e663ca6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]</value>
-      <webElementGuid>6e1fd238-c5de-409c-afa2-2618fee3468b</webElementGuid>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>483e24e7-70c6-4ef8-93b0-16d91a95d61d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Update' or . = 'Update')]</value>
-      <webElementGuid>c1fa4008-67cf-4b2f-811f-9451f9a9f9a7</webElementGuid>
+      <value>//div[(text() = 'Semesters' or . = 'Semesters')]</value>
+      <webElementGuid>2ba5702e-aeb1-4146-91d5-38f0125db0ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Over Lap Semester Validation</name>
+   <tag></tag>
+   <elementGuidId>c7e3247f-c65c-4464-81c0-7d135357a2f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'The date range overlaps with an existing record.' or . = 'The date range overlaps with an existing record.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4d97822d-133c-4105-9120-181d23122528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r2p:-form-item-message</value>
+      <webElementGuid>4a94bcc9-a359-4bc3-915a-9a79195be645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-medium text-destructive</value>
+      <webElementGuid>19d66b8f-e4cd-42cf-9f7b-5f61db2c6339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The date range overlaps with an existing record.</value>
+      <webElementGuid>3a069f1f-af81-44ad-9f8b-2eebe21496c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r2p:-form-item-message&quot;)</value>
+      <webElementGuid>360f442f-76e4-4e60-9ce3-3148b109169f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r2p:-form-item-message']</value>
+      <webElementGuid>06913a6c-b924-4703-8e6f-97751be9cdde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r2g:']/div[2]/form/div/div[4]/p</value>
+      <webElementGuid>228ac1b0-6b9b-42f5-89cb-2a361a334010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 1st, 2021'])[1]/following::p[1]</value>
+      <webElementGuid>480d5a02-4a89-465c-bdd1-4c0bc7d2be47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[2]/following::p[1]</value>
+      <webElementGuid>c1132e89-66a0-4736-9f4f-60f3016dae3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[2]/preceding::p[1]</value>
+      <webElementGuid>92b0ad81-3f89-4794-b409-e27c5fb7ed42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='December 29th, 2021'])[1]/preceding::p[1]</value>
+      <webElementGuid>2657e5e8-c56a-49de-8b74-a34e114b8c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The date range overlaps with an existing record.']/parent::*</value>
+      <webElementGuid>c0eeaef1-30fb-4c3a-8c3e-ae8e9f8ec87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p</value>
+      <webElementGuid>6661a13f-5529-405b-b4dc-214d357fa2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r2p:-form-item-message' and (text() = 'The date range overlaps with an existing record.' or . = 'The date range overlaps with an existing record.')]</value>
+      <webElementGuid>57740786-af54-4ebc-a29e-9b8b05c023f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
