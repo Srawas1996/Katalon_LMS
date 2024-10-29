@@ -23,19 +23,7 @@ import org.openqa.selenium.WebDriver
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.WebElement as Keys
 
-WebUI.openBrowser('https://dev-lms-frontend.joacademy.tech/')
 
-WebDriver driver = DriverFactory.getWebDriver()
-
-WebUI.maximizeWindow()
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
-
-WebUI.sendKeys(findTestObject('Login/Page_Login/password'), '12345678')
-
-WebUI.click(findTestObject('Login/Page_Login/Sign In'))
-
-WebUI.verifyElementVisible(findTestObject('Login/Page_Home/CheckTheHomePageTitle'))
 
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
@@ -54,8 +42,3 @@ for (int i = 0; i < numToSelect && i < checkboxes.size()-1; i++) {
 
 // Verify the number of elements in the list (if applicable)
 WebUI.verifyElementText(findTestObject('AcademicYear/Page_Academic Years/NumberOfElementInTheList'), numToSelect.toString())
-
-WebUI.closeBrowser()
-
-
-

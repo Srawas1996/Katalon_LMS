@@ -25,7 +25,7 @@ import org.openqa.selenium.WebElement
 import java.util.List
 import java.util.Random
 
-WebDriver driver = DriverFactory.getWebDriver()
+
 
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
@@ -48,5 +48,3 @@ WebUI.click(findTestObject('AcademicYear/EndDate Select/Select Day'))
 WebUI.click(findTestObject('AcademicYear/Page_Academic Years/Create Button'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/AcademicYear/OverLap_DuplicateNameValidations/en language is already taken'), "The name '2024/2025' in 'en' language is already taken.")
-
-WebUI.closeBrowser()

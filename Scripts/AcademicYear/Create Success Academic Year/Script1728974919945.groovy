@@ -41,6 +41,7 @@ WebUI.click(findTestObject('AcademicYear/StartDate Select/MonthDropDownList'))
 
 WebUI.click(findTestObject('AcademicYear/StartDate Select/SeptemberSelect'))
 
+
 WebUI.click(findTestObject('AcademicYear/Creating Page Element/YearSelect'))
 
 WebUI.click(findTestObject('AcademicYear/StartDate Select/Select First Year'))

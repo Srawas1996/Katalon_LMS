@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@name = 'day' and @type = 'button' and (text() = '28' or . = '28')]</value>
+         <value>//td[2]/button</value>
       </entry>
       <entry>
          <key>BASIC</key>

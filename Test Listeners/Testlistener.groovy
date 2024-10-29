@@ -58,15 +58,7 @@ class Testlistener {
 	 */
 	@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
-		String testCaseId = testCaseContext.getTestCaseId()
-        
-        if (!testCaseId.contains('InvalidLogin')) {
-            println "Executing common teardown for Test Case: " + testCaseId
-            WebUI.closeBrowser()
-        } else {
-            println "Skipping teardown for Test Case: " + testCaseId
-        }
+		WebUI.closeBrowser()
 	}
-
 	
 }

@@ -25,9 +25,9 @@ WebUI.click(findTestObject('AcademicYear/Page_Academic Years/ThreeDotsAcademicYe
 
 WebUI.click(findTestObject('Semester/Semesters from Academic year'))
 
-WebUI.click(findTestObject('Semester/Plus sign'))
-
 WebUI.verifyElementPresent(findTestObject('Semester/Semesters AutomationTest name'), 0)
+
+WebUI.click(findTestObject('Semester/Plus sign'))
 
 WebUI.sendKeys(findTestObject('Semester/Semester English Name'), 'Semester  Two')
 
