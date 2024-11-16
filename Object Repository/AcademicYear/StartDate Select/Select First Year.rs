@@ -6,12 +6,11 @@
    <elementGuidId>b0e8b299-391f-46a5-9208-e2dfb2527616</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div/span[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[(text() = '2021' or . = '2021')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>00c7b923-7956-4d4c-9c00-6fad18053782</webElementGuid>
+      <webElementGuid>95bac63a-2cd1-4c86-9fb7-3ee5cb6936dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radix-:r4d:</value>
-      <webElementGuid>31a544dd-95be-4b6c-b5eb-03faacfdf65a</webElementGuid>
+      <webElementGuid>d213b8d5-741a-4b55-a991-89494ac576eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2021</value>
-      <webElementGuid>7face0f3-7102-43d7-a1ff-5a9c894c534e</webElementGuid>
+      <webElementGuid>6ce36e99-57b7-40b4-9d82-c320a61eb219</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r4d:&quot;)</value>
-      <webElementGuid>c69ff7f3-0329-4c71-86da-97a275d4599a</webElementGuid>
+      <webElementGuid>ebf65883-56e4-4244-8be4-abc4574f92f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='radix-:r4d:']</value>
-      <webElementGuid>93e69ce4-67e6-4eae-8772-4e2d6a435783</webElementGuid>
+      <webElementGuid>8c899080-e111-481a-b8ed-fc77155d3a19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r3p:']/div/div/span[2]</value>
-      <webElementGuid>32987678-5f11-4a1c-b595-4b840c59cd25</webElementGuid>
+      <webElementGuid>8c2c4e38-3640-4925-ae42-d9efb06bd08d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[3]</value>
-      <webElementGuid>47b399d3-1bf1-4ba4-a460-143c8f1c6886</webElementGuid>
+      <webElementGuid>b1c92498-0de9-4856-8055-7251acc673c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[4]</value>
-      <webElementGuid>d35aee4e-5e3f-447a-85c9-802a7ae4bc73</webElementGuid>
+      <webElementGuid>260145eb-d097-4582-9c70-bd046965a063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span[2]</value>
-      <webElementGuid>3d5613e6-3d9e-46de-afcd-993562730449</webElementGuid>
+      <webElementGuid>82eb31ba-128f-4861-881a-9e8f0d5e1c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'radix-:r4d:' and (text() = '2021' or . = '2021')]</value>
-      <webElementGuid>276340a3-a66a-4658-9ff3-f2876f63a000</webElementGuid>
+      <webElementGuid>3599bdc3-dd47-4f34-b3bc-a64591617af7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

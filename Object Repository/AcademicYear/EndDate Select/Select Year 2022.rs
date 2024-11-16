@@ -6,11 +6,11 @@
    <elementGuidId>86efe9b4-ca46-4d19-9a4f-f5738c2a3fbf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[4]/div/div/div[2]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[(text() = '2022' or . = '2022')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>39bd9d34-a13f-4aa9-a21d-378ac17d1edd</webElementGuid>
+      <webElementGuid>1baf0ca4-de00-4649-9f57-b785018cd0cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>45e5fd20-7399-4c11-a178-6b1affe9f077</webElementGuid>
+      <webElementGuid>4f488369-9eb0-4416-8180-811792317248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>radix-:rfj:</value>
-      <webElementGuid>b535f106-f388-4880-aaca-1cef249c356f</webElementGuid>
+      <webElementGuid>1b83d19c-e305-46c7-a591-bbdfe4d1cf35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c6c54c8d-d181-4959-8160-95cf04acb756</webElementGuid>
+      <webElementGuid>a0d7bd10-1586-4fa9-82d8-a2d27700449f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>checked</value>
-      <webElementGuid>5fc657c3-f504-4e2e-91e9-ccd8f16ccfa4</webElementGuid>
+      <webElementGuid>b68c5e85-f395-45a4-b6f3-fd379a534773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>f1afdf8a-dace-44ba-b638-3fea9e1e4456</webElementGuid>
+      <webElementGuid>33fa566a-700c-4952-8196-2b407616f130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex w-full cursor-default select-none items-center rounded-sm py-1.5 pl-8 pr-2 text-sm outline-none focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50</value>
-      <webElementGuid>c017249a-8179-46f6-806d-0de666869b8f</webElementGuid>
+      <webElementGuid>3e226fac-50ab-40c0-8b96-8fcd7dad864c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2022</value>
-      <webElementGuid>8ce9b524-1724-440d-985f-524b23ec7eb4</webElementGuid>
+      <webElementGuid>3aeecb76-0b96-4f36-9534-94b40d07ca20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:reu:&quot;)/div[@class=&quot;p-1 h-[var(--radix-select-trigger-height)] w-full min-w-[var(--radix-select-trigger-width)]&quot;]/div[@class=&quot;relative flex w-full cursor-default select-none items-center rounded-sm py-1.5 pl-8 pr-2 text-sm outline-none focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50&quot;]</value>
-      <webElementGuid>0b6af03d-8a10-44f5-8fd5-60b2b03140c0</webElementGuid>
+      <webElementGuid>95696eb7-457a-4212-acfb-d0b9125452cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:reu:']/div/div[2]</value>
-      <webElementGuid>9a8c2628-0732-431c-8e87-e733c7b32236</webElementGuid>
+      <webElementGuid>e613f31e-e417-497e-a053-ea1f2fe465c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[5]</value>
-      <webElementGuid>97f974f4-a797-4f64-90c2-a56501ff1068</webElementGuid>
+      <webElementGuid>34f75036-df3a-4ce2-8cfc-049c82589c03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[5]</value>
-      <webElementGuid>334c71fc-e825-4685-8ea1-527d1172c6bd</webElementGuid>
+      <webElementGuid>4f4ce0ff-ce2d-4897-a9a7-2603e25e4538</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]</value>
-      <webElementGuid>ad7a6f9f-74df-4c35-8e20-651c56075ffc</webElementGuid>
+      <webElementGuid>1e8ca622-f1bc-4489-81b8-483cb72044c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '2022' or . = '2022')]</value>
-      <webElementGuid>ff450625-b234-4bca-a8f9-5e3bcbba3e35</webElementGuid>
+      <webElementGuid>9be2814f-4aea-4886-9868-cd451155eb9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

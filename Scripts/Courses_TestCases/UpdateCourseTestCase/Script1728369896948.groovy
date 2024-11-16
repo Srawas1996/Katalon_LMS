@@ -17,7 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Course/Page_Home/Courses'))
@@ -28,6 +27,8 @@ WebUI.click(findTestObject('Object Repository/Course/CourseDetailsOption/ThreeDo
 
 WebUI.click(findTestObject('Object Repository/Course/CourseDetailsOption/Update'))
 
+WebUI.delay(15)
+
 WebUI.sendKeys(findTestObject('Object Repository/Course/Page_Courses/Course Description (EN'), 'EnglishText')
 
 WebUI.sendKeys(findTestObject('Course/Page_Courses/Course Description (AR)'), 'ArabicText')
@@ -37,3 +38,4 @@ WebUI.click(findTestObject('Course/Page_Courses/button_Update'))
 WebUI.delay(10)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Course/CourseDetailsOption/ThreeDots'))
+

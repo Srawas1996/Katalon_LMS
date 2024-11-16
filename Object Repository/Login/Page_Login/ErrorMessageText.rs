@@ -6,12 +6,11 @@
    <elementGuidId>18fe05b9-71f0-4740-826c-bda510ebeb12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/section/ol/li</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//li[(text() = 'These credentials do not match our records.' or . = 'These credentials do not match our records.')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>b3984d6f-0cfb-4751-983f-58271e6b69b7</webElementGuid>
+      <webElementGuid>a2ac3ad3-a46d-4a78-86c5-173f94159490</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>74a6d51d-1a74-44bd-bded-3c55fb6f3c97</webElementGuid>
+      <webElementGuid>3d3c0d05-f05d-4bf1-bb14-7fa2855b709a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>aria-atomic</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>aead4f38-21f6-47be-8b66-da657f2a1325</webElementGuid>
+      <webElementGuid>b2edf315-22ac-4c8b-ae4f-bdd05fc1eb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>84908b81-f234-446e-8fd6-023cb0cfb4d7</webElementGuid>
+      <webElementGuid>82f22c1a-7177-4b1c-93cc-147429c133ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4ad8c022-f962-443c-9137-7bbfb99de5d8</webElementGuid>
+      <webElementGuid>bd8c009c-978c-483d-b2d0-d9d444b78518</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>group toast group-[.toaster]:bg-background group-[.toaster]:text-foreground group-[.toaster]:border-border group-[.toaster]:shadow</value>
-      <webElementGuid>0e647610-7e8e-41f7-a131-9110e0bff1bb</webElementGuid>
+      <webElementGuid>60c1845a-8489-4a88-adf2-3d9bb29ad79a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>data-rich-colors</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>24f5781a-07b6-404c-bcaf-400caaf853e1</webElementGuid>
+      <webElementGuid>85005cc6-0b36-4d94-af30-86daf02276cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-styled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b02f57b2-e36d-45f1-81d2-d3e97ff6fd44</webElementGuid>
+      <webElementGuid>a062dcde-c1cb-4ad6-950f-ce356ecab70b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>data-mounted</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>14e93346-c1f6-4e39-94b0-4bfd20156ef0</webElementGuid>
+      <webElementGuid>1faa78a2-cf4d-4cd5-a041-1a284ada9e98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>data-promise</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1bf8723b-5c9b-4bac-8830-da40fef6fa69</webElementGuid>
+      <webElementGuid>992fb93d-3f39-4a11-a542-5571c6d36307</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>data-removed</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8094c099-c4b4-4f57-ba8f-138a369a1acf</webElementGuid>
+      <webElementGuid>9112fda6-af6f-4036-b3fd-b2a1cb68134d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>data-visible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3553fa76-bda5-4adb-ae50-4d04c72da0cc</webElementGuid>
+      <webElementGuid>14c52ffc-298c-435c-b866-8b5a949e2b06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>data-y-position</name>
       <type>Main</type>
       <value>bottom</value>
-      <webElementGuid>dec076a4-3fdd-441f-b93e-0c6951a7156a</webElementGuid>
+      <webElementGuid>05884cd5-39fa-4f5b-bd31-925b0c138dd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>data-x-position</name>
       <type>Main</type>
       <value>right</value>
-      <webElementGuid>557f98eb-b809-4f7f-9df6-d1adc9b94ba9</webElementGuid>
+      <webElementGuid>e91e279c-3dd0-4086-8e86-db278cd22f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>data-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>30353aaf-5c92-4504-85e8-574fb7746f8a</webElementGuid>
+      <webElementGuid>b3358857-4faa-4253-9f66-9987ea80be80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>data-front</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c23f7404-7fcc-42e5-9479-4827bb142907</webElementGuid>
+      <webElementGuid>c60626ba-a5c0-4d17-9680-679827a83103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>data-swiping</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7e2de7b6-ab09-4d75-be38-a39d3761cc18</webElementGuid>
+      <webElementGuid>c02a5a15-70b2-43a6-8a98-02dbc82299c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -159,7 +158,7 @@
       <name>data-dismissible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8805a888-d1e4-4f0a-b685-d26930ccec7d</webElementGuid>
+      <webElementGuid>9e08c0d9-8b1e-4526-9abd-522418c217d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -167,7 +166,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>error</value>
-      <webElementGuid>5e3431fe-81b4-42d0-9c2a-eed389ff902b</webElementGuid>
+      <webElementGuid>73abdc43-7b0d-4a65-90bb-e810f314bd97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -175,7 +174,7 @@
       <name>data-swipe-out</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a80553fb-9def-450d-b40e-f19cc55ee04c</webElementGuid>
+      <webElementGuid>eb7e3062-9d3b-4ac0-aac9-e0588ee4e342</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -183,7 +182,7 @@
       <name>data-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ea47502d-ef46-4bf5-87e6-2a594b3d2b51</webElementGuid>
+      <webElementGuid>a5f04395-0931-465f-9ce7-424cfee50794</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -191,7 +190,7 @@
       <name>text</name>
       <type>Main</type>
       <value>These credentials do not match our records.</value>
-      <webElementGuid>bc36e125-6e02-44cb-aaa4-28c5cd059268</webElementGuid>
+      <webElementGuid>ac4140a7-5ce7-4fb8-b2aa-810ea88a5015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -199,7 +198,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[1]/section[1]/ol[@class=&quot;toaster group&quot;]/li[@class=&quot;group toast group-[.toaster]:bg-background group-[.toaster]:text-foreground group-[.toaster]:border-border group-[.toaster]:shadow&quot;]</value>
-      <webElementGuid>f38cf45c-b293-4cad-91dd-04ed0250cf7f</webElementGuid>
+      <webElementGuid>2d047cb2-7124-4fcf-bed8-6c8d99ff3d55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -207,7 +206,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/section/ol/li</value>
-      <webElementGuid>6b13a3a2-f7bd-45e0-97bd-81d14109b093</webElementGuid>
+      <webElementGuid>9a1103b4-7c35-47b5-9450-8df3c0c80d6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -215,7 +214,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GitHub'])[1]/following::li[1]</value>
-      <webElementGuid>2c4c7a15-aa1f-499b-b6dc-b8093e4626ab</webElementGuid>
+      <webElementGuid>a91d5bf9-0f8f-4c7a-9660-6355357b38c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -223,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::li[1]</value>
-      <webElementGuid>6ec785f3-29a5-4d0c-9202-cc7150f4836a</webElementGuid>
+      <webElementGuid>c0e8dc1f-18e8-48b0-9f24-12e08337cf1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -231,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>b733bcf4-31e1-446c-be31-2e998ee31359</webElementGuid>
+      <webElementGuid>fadb1bfd-8d80-4863-9639-42fa5fc05c09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -239,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'These credentials do not match our records.' or . = 'These credentials do not match our records.')]</value>
-      <webElementGuid>523cfc72-8868-4734-95d9-a4259ca472ff</webElementGuid>
+      <webElementGuid>659b6502-b1ba-426c-84a7-9c1e10a9deaa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

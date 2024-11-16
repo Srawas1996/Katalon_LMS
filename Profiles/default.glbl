@@ -4,4 +4,59 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Semester One'</initValue>
+      <name>Semester_EnglishName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'الفصل الدراسي الاول'</initValue>
+      <name>Semester_ArabicName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'English Name is required'</initValue>
+      <name>Name_Is_Required</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Arabic Name is required'</initValue>
+      <name>Arabic_Name_Is_Required</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Date Range is Required'</initValue>
+      <name>Date_Range_is_Required</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Semester Two'</initValue>
+      <name>Semester_EnglishName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'الفصل الدراسي الثاني'</initValue>
+      <name>Semester_ArabicName2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'The date range overlaps with an existing record.'</initValue>
+      <name>Overlap_Semester</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SubjectOne'</initValue>
+      <name>EnglishSubjectName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'مادة الاولى'</initValue>
+      <name>ArabicSubjectName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'National1'</initValue>
+      <name>ProgramSubjectSearch</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

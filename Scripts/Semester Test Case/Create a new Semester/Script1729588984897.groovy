@@ -31,9 +31,9 @@ WebUI.verifyElementPresent(findTestObject('Semester/Semesters AutomationTest nam
 
 WebUI.click(findTestObject('Semester/Plus sign'))
 
-WebUI.sendKeys(findTestObject('Semester/Semester English Name'), 'Semester  One')
+WebUI.sendKeys(findTestObject('Semester/Semester English Name'), GlobalVariable.Semester_EnglishName)
 
-WebUI.sendKeys(findTestObject('Semester/Semester Arabic Name'), 'الفصل الدراسي الاول')
+WebUI.sendKeys(findTestObject('Semester/Semester Arabic Name'), GlobalVariable.Semester_ArabicName)
 
 WebUI.click(findTestObject('Semester/Start Date Semester'))
 

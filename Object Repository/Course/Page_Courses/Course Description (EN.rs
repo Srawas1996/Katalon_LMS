@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@placeholder = 'Write Description on English' and @name = 'descriptionEn' and @id = ':r2t:-form-item']</value>
+         <value>//textarea[@placeholder = 'Write Description on English' and @name = 'descriptionEn']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>24e82574-7242-4988-8f15-0cc5c2c17e8a</webElementGuid>
+      <webElementGuid>87ebdb60-c226-4e19-8916-0adc12c95797</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-secondary-50 flex min-h-[80px] w-full rounded-md border bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50</value>
-      <webElementGuid>0f0eaf1d-10a0-4316-8ed9-60f29c49baa4</webElementGuid>
+      <webElementGuid>a8bd0dcc-58d7-4021-8c54-f5b187f2c027</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Write Description on English</value>
-      <webElementGuid>f41ec8eb-a0d5-4d93-a498-62c779a57a74</webElementGuid>
+      <webElementGuid>54e62211-6f02-433a-bea3-e6a69151fcc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>descriptionEn</value>
-      <webElementGuid>5f642814-475b-4418-a463-85f643d9ccf0</webElementGuid>
+      <webElementGuid>21ae823a-71ad-47e6-9dbe-b7fae9a2b238</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r2t:-form-item</value>
-      <webElementGuid>f119a8c6-1016-45c1-886e-9fd516481041</webElementGuid>
+      <webElementGuid>285c3bb6-3739-41be-ac89-fe291194d574</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>:r2t:-form-item-description</value>
-      <webElementGuid>46414415-4cb6-44d4-9394-80a5f67c6d87</webElementGuid>
+      <webElementGuid>4dd6c2d6-dafa-48cb-900f-796637bcc746</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1f534a03-60d5-4357-b885-1068c555a615</webElementGuid>
+      <webElementGuid>245ae3fa-8e54-4cee-81c6-c159c11bb6ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r2t:-form-item&quot;)</value>
-      <webElementGuid>92ca91da-15a1-4ef2-82ba-2a7005293606</webElementGuid>
+      <webElementGuid>40fb5e14-cc91-47aa-a750-eaac595fe65b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id=':r2t:-form-item']</value>
-      <webElementGuid>57c2d180-98eb-40dc-a033-2e7f646f054b</webElementGuid>
+      <webElementGuid>07547e1e-e266-4939-8b9a-a25ba3ef9258</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r2i:']/div[2]/form/div/div[5]/textarea</value>
-      <webElementGuid>dd9e9a16-2a4c-46d0-8503-ce95310bbbad</webElementGuid>
+      <webElementGuid>bacc9f45-6a6a-40b0-9731-3555b7a4a033</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>b2d0eb97-08dc-43f0-a936-b2928ec92a7a</webElementGuid>
+      <webElementGuid>9720adbc-6726-44e3-b021-43dc64b804a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@placeholder = 'Write Description on English' and @name = 'descriptionEn' and @id = ':r2t:-form-item']</value>
-      <webElementGuid>cfe45052-c46f-4aa1-931e-8a35bb721469</webElementGuid>
+      <webElementGuid>67d4bfbf-df39-491b-878b-ee4497fbac2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,3 +1,7 @@
+import internal.GlobalVariable
+
+import internal.GlobalVariable
+
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -31,11 +35,11 @@ WebUI.verifyElementPresent(findTestObject('Semester/Semesters AutomationTest nam
 
 WebUI.click(findTestObject('Semester/Create Semester'))
 
-WebUI.verifyElementText(findTestObject('Semester/English Name is required'), 'English Name is required')
+WebUI.verifyElementText(findTestObject('Semester/English Name is required'), GlobalVariable.Name_Is_Required)
 
-WebUI.verifyElementText(findTestObject('Semester/Arabic Name is required'), 'Arabic Name is required')
+WebUI.verifyElementText(findTestObject('Semester/Arabic Name is required'), GlobalVariable.Arabic_Name_Is_Required)
 
-WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - start date'), 'Date Range is Required')
+WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - start date'), GlobalVariable.Date_Range_is_Required)
 
 WebUI.click(findTestObject('Semester/Start Date Semester'))
 
@@ -56,7 +60,7 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.verifyElementNotPresent(findTestObject('Semester/Date Range is Required - start date'), 0)
 
-WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - end date'), 'Date Range is Required')
+WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - end date'), GlobalVariable.Date_Range_is_Required)
 
 WebUI.click(findTestObject('Semester/End Date Semester'))
 
@@ -77,7 +81,7 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.verifyElementNotPresent(findTestObject('Semester/Date Range is Required - end date'), 0)
 
-WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - actual start date'), 'Date Range is Required')
+WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - actual start date'), GlobalVariable.Date_Range_is_Required)
 
 WebUI.click(findTestObject('Semester/Actual Start date Semester'))
 
@@ -98,7 +102,7 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.verifyElementNotPresent(findTestObject('Semester/Date Range is Required - actual start date'), 0)
 
-WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - actual end date'), 'Date Range is Required')
+WebUI.verifyElementText(findTestObject('Semester/Date Range is Required - actual end date'), GlobalVariable.Date_Range_is_Required)
 
 WebUI.click(findTestObject('Semester/Actual End date Semester'))
 

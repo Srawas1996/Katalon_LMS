@@ -35,9 +35,9 @@ WebUI.click(findTestObject('Semester/Plus sign'))
 
 WebUI.verifyElementPresent(findTestObject('Semester/Semesters AutomationTest name'), 0)
 
-WebUI.sendKeys(findTestObject('Semester/Semester English Name'), 'Semester  Two')
+WebUI.sendKeys(findTestObject('Semester/Semester English Name'), GlobalVariable.Semester_EnglishName2)
 
-WebUI.sendKeys(findTestObject('Semester/Semester Arabic Name'), 'الفصل الدراسي الثاني')
+WebUI.sendKeys(findTestObject('Semester/Semester Arabic Name'), GlobalVariable.Semester_ArabicName2)
 
 WebUI.click(findTestObject('Semester/Start Date Semester'))
 
@@ -101,5 +101,5 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.delay(10)
 
-WebUI.verifyElementText(findTestObject('Semester/Over Lap Semester Validation'), 'The date range overlaps with an existing record.')
+WebUI.verifyElementText(findTestObject('Semester/Over Lap Semester Validation'), GlobalVariable.Overlap_Semester)
 
