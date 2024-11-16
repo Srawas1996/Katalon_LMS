@@ -6,12 +6,11 @@
    <elementGuidId>7ffedabc-eeec-47cb-84f7-a587a19c0191</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main']/div[2]/div[2]/button</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Finish' or . = 'Finish')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a71d0960-ae44-4770-abea-80b9212f9532</webElementGuid>
+      <webElementGuid>f797509d-ed2c-4bcc-8b77-793fc0683fac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-9 rounded-md px-3 bg-primary-40 text-primary-foreground hover:bg-primary-40/90</value>
-      <webElementGuid>d4284414-eae2-490a-b6b6-d305f5523c0b</webElementGuid>
+      <webElementGuid>dd71c0ad-1c67-40a0-9027-9fe8d7b1e473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Finish</value>
-      <webElementGuid>376798ee-2769-4b61-aa6e-24ba0f627657</webElementGuid>
+      <webElementGuid>4396090e-eb56-43d2-b5cb-3e84faadbd5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[@class=&quot;flex w-full flex-col gap-4&quot;]/div[@class=&quot;w-full flex justify-end gap-2&quot;]/button[@class=&quot;inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-9 rounded-md px-3 bg-primary-40 text-primary-foreground hover:bg-primary-40/90&quot;]</value>
-      <webElementGuid>74add637-f0ba-4d2d-a406-055c890acb58</webElementGuid>
+      <webElementGuid>ab7b42ce-d300-4137-9b32-ee9bc532f0e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main']/div[2]/div[2]/button</value>
-      <webElementGuid>4a88a551-1911-492b-b58d-342d09dbbf26</webElementGuid>
+      <webElementGuid>0ddbccdd-6dde-4585-ba0b-76fd4f247e47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Year'])[4]/following::button[1]</value>
-      <webElementGuid>f8eafed6-0b7a-4385-89f0-c13856b0dca0</webElementGuid>
+      <webElementGuid>f79cc63b-3762-49b3-93a4-594c39537ae3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Form submission failed'])[1]/preceding::button[1]</value>
-      <webElementGuid>c5f71680-5e07-49d0-91a5-b34fe8fba86d</webElementGuid>
+      <webElementGuid>2e5e1320-82d0-4ebe-ade2-3df6392dfdc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::button[1]</value>
-      <webElementGuid>204562a1-ce8d-49f1-a982-b1104463ba4e</webElementGuid>
+      <webElementGuid>a59bfb9a-8559-4fd8-857c-c0c50efe6bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Finish']/parent::*</value>
-      <webElementGuid>53bf3c89-15e7-49e9-bb7e-19787142726e</webElementGuid>
+      <webElementGuid>ec0c1521-d6fa-41ea-bc0e-5c218c2af0a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div[2]/div[2]/button</value>
-      <webElementGuid>0c257302-91f1-4bfb-844c-a3667c182df3</webElementGuid>
+      <webElementGuid>9345d132-a349-456b-ba43-4a28aec796ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Finish' or . = 'Finish')]</value>
-      <webElementGuid>b9d4ef03-8a44-49a5-a291-3e87c5d03d51</webElementGuid>
+      <webElementGuid>af22def7-b833-4433-91ab-fb38d143f3fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

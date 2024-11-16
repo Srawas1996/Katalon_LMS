@@ -17,10 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
+
+WebUI.click(findTestObject('Program/Page_Programs/Program Select from the bar'))
 
 WebUI.click(findTestObject('Program/Page_Programs/ClickOnPlusSign'))
 
@@ -43,3 +44,4 @@ WebUI.click(findTestObject('Object Repository/Program/Page_Programs/Palestine'))
 WebUI.click(findTestObject('Program/Page_Programs/Create_Button'))
 
 WebUI.verifyElementClickable(findTestObject('Program/Page_Programs/ThreeDotsFromProgram'))
+

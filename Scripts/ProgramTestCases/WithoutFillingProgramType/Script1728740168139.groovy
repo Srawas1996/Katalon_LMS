@@ -21,8 +21,14 @@ WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
 
+WebUI.click(findTestObject('Program/Page_Programs/Program Select from the bar'))
+
 WebUI.click(findTestObject('Program/Page_Programs/ClickOnPlusSign'))
 
 WebUI.click(findTestObject('Object Repository/Program/Page_Programs/Create_Button'))
 
+WebUI.delay(3)
+
 WebUI.verifyElementVisible(findTestObject('Program/Page_Programs/Program Type is Required'))
+
+WebUI.delay(3)

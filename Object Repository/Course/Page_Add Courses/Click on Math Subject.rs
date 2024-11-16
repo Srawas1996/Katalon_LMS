@@ -6,12 +6,11 @@
    <elementGuidId>bef689f5-e4c0-439a-83f9-4c909a66307d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main']/div[2]/form/div/div[2]/div[2]/div/div</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Math' or . = 'Math')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6003ef0a-eeee-4329-94ba-e095f97a0724</webElementGuid>
+      <webElementGuid>6290f991-b53a-432b-9aed-2b21ea07e75c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>a199ee75-ed3c-4125-a053-202cb5c2d82b</webElementGuid>
+      <webElementGuid>c1ff42e4-adcc-4c54-8bae-166549482121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>data-orientation</name>
       <type>Main</type>
       <value>vertical</value>
-      <webElementGuid>cb452cc7-399c-4a46-86b2-6f1845d02e43</webElementGuid>
+      <webElementGuid>dab1a100-e1eb-4098-81ad-fcaa7165c009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>border-[1px] border-[#81818166] border-solid my-3 rounded-[16px] p-2 bg-muted</value>
-      <webElementGuid>833da1af-673e-4153-9dda-cf751b0434b3</webElementGuid>
+      <webElementGuid>a204829a-a9c1-4646-ab8d-525cdf85cd4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Math</value>
-      <webElementGuid>9525bdbb-6cd0-437a-b660-9377fe272b13</webElementGuid>
+      <webElementGuid>e6a9cb47-1182-4773-bdb7-8c0718e2e39f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[@class=&quot;flex w-full flex-col gap-4&quot;]/form[@class=&quot;space-y-2&quot;]/div[@class=&quot;rounded-lg border bg-card text-card-foreground shadow-sm&quot;]/div[@class=&quot;p-6 pt-0&quot;]/div[@class=&quot;grid grid-cols-1&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;border-[1px] border-[#81818166] border-solid my-3 rounded-[16px] p-2 bg-muted&quot;]</value>
-      <webElementGuid>a73a266e-245b-41f6-b520-9b9f9ca67335</webElementGuid>
+      <webElementGuid>1f65dd96-9645-47f3-bc2a-2c46b70f5450</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main']/div[2]/form/div/div[2]/div[2]/div/div</value>
-      <webElementGuid>d7e08bd4-374e-44b8-9eff-c40964375445</webElementGuid>
+      <webElementGuid>6c3febf6-9489-4df8-af43-362c6efd0915</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Math'])[1]/following::div[4]</value>
-      <webElementGuid>e0ed016d-f167-43e8-a80d-e295eaff92db</webElementGuid>
+      <webElementGuid>e04f030e-d507-4de4-9fc4-41d88f32cdbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Subjects'])[1]/following::div[8]</value>
-      <webElementGuid>08d2d92c-0bd2-45c2-aa06-92aed432ed8e</webElementGuid>
+      <webElementGuid>c5705faf-8a4d-432f-867f-3d6536ea7fb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Finish'])[1]/preceding::div[5]</value>
-      <webElementGuid>cbb7f493-deb4-44eb-a6fb-96eabdd7b620</webElementGuid>
+      <webElementGuid>61b86b16-222d-4dd2-b884-d110da2b9e47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>a99c6ff9-abe2-42cd-8cca-2e26ecfc3541</webElementGuid>
+      <webElementGuid>99ce70ae-09e0-4c9b-a640-f15cffae52a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Math' or . = 'Math')]</value>
-      <webElementGuid>1f3bac1d-eeb6-44c2-8cef-b9882a3577ee</webElementGuid>
+      <webElementGuid>9efcdfe8-f879-4bc2-bdeb-f41c825f7b93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

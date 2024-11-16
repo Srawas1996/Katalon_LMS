@@ -21,14 +21,9 @@ WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
 
+WebUI.click(findTestObject('Program/Page_Programs/Program Select from the bar'))
+
 WebUI.sendKeys(findTestObject('Program/Page_Programs/SearchBar'), 'My Programss')
 
 WebUI.verifyElementVisible(findTestObject('Blooms/Page_Blooms Taxonomy/No Data is found'))
 
-WebUI.click(findTestObject('Program/Page_Programs/ResetButton'))
-
-WebUI.sendKeys(findTestObject('Program/Page_Programs/SearchBar'), 'ASC12')
-
-WebUI.delay(10)
-
-WebUI.verifyElementClickable(findTestObject('Program/Page_Programs/ThreeDotsFromProgram'))

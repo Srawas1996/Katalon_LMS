@@ -22,6 +22,8 @@ WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
 
+WebUI.click(findTestObject('Program/Page_Programs/Program Select from the bar'))
+
 WebUI.click(findTestObject('Program/Page_Programs/ClickOnPlusSign'))
 
 WebUI.sendKeys(findTestObject('Program/Page_Programs/English Name'), 'dddd')

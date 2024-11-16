@@ -54,6 +54,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>c4dca646-9780-452e-a05b-ef28b204364f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ProgramTestCases/Search with data exist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>ca3981b8-f4da-4936-a36d-eb51dd968cce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

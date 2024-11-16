@@ -68,7 +68,7 @@ for (int i = 0; i < 11; i++) {
     actions.clickAndHold(sliderElement).moveByOffset(xOffset, 0).release().perform()
 }
 
-WebUI.scrollToElement(findTestObject('Course/Page_Add Courses/button_Finish'), 0)
+//WebUI.scrollToElement(findTestObject('Course/Page_Add Courses/button_Finish'), 0)
 
 WebUI.click(findTestObject('Course/Page_Add Courses/Select Teacher'))
 
