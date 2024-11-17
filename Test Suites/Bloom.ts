@@ -33,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>0e10759b-037f-4ea7-b9c3-f8ba577b2901</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BloomTestCases/BloomSearchWithDataExist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>84710fc8-16dd-4bd1-9413-ddc1d32bf47b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
