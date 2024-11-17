@@ -17,7 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Blooms/Page_Home/Blooms Taxonomy'))
@@ -26,13 +25,17 @@ WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/BloomThreeDots'))
 
 WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/Update button'))
 
+WebUI.clearText(findTestObject('Blooms/Page_Blooms Taxonomy/Update English Name'))
+
 WebUI.setText(findTestObject('Blooms/Page_Blooms Taxonomy/Update English Name'), 'Update AlRawas')
+
+WebUI.clearText(findTestObject('Blooms/Page_Blooms Taxonomy/Update Arabic Name'))
 
 WebUI.setText(findTestObject('Blooms/Page_Blooms Taxonomy/Update Arabic Name'), 'تعديل الرواس')
 
 WebUI.click(findTestObject('Blooms/Page_Blooms Taxonomy/button_Update'))
 
 WebUI.delay(10)
-WebUI.waitForElementClickable(findTestObject('Blooms/Page_Blooms Taxonomy/BloomThreeDots'), 1)
 
+WebUI.waitForElementClickable(findTestObject('Blooms/Page_Blooms Taxonomy/BloomThreeDots'), 1)
 

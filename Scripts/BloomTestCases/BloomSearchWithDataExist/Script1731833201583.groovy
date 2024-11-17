@@ -21,7 +21,7 @@ WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Blooms/Page_Home/Blooms Taxonomy'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/BloomSearch'), "Salim")
+WebUI.sendKeys(findTestObject('Object Repository/Blooms/Page_Blooms Taxonomy/BloomSearch'), "asd5")
 
 WebUI.delay(20)
 
