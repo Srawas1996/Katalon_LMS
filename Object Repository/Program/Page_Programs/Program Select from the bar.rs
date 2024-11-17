@@ -6,15 +6,18 @@
    <elementGuidId>e4e37c9c-fb98-4f22-b2e2-0f2347e7948a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>CSS</key>
+         <value>[href='/settings/school/programs']</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//span[contains(text(),'Programs')]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

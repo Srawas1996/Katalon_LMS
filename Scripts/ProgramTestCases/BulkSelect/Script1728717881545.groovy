@@ -21,6 +21,8 @@ WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
 WebUI.click(findTestObject('Program/Page_Home/Program'))
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('Program/Page_Programs/Program Select from the bar'))
 
 WebUI.click(findTestObject('Program/Page_Programs/BulkSelect1'))
@@ -28,3 +30,4 @@ WebUI.click(findTestObject('Program/Page_Programs/BulkSelect1'))
 WebUI.click(findTestObject('Program/Page_Programs/BulkSelect2'))
 
 WebUI.verifyElementText(findTestObject('Program/Page_Programs/Number of Element Bing Select'), '2')
+
