@@ -17,16 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 WebUI.click(findTestObject('Course/Page_Home/ClickOnSettings'))
 
-WebUI.click(findTestObject('Subject/Page_Home/Subjects'))
+WebUI.click(findTestObject('Program/Page_Home/Program'))
 
-WebUI.sendKeys(findTestObject('Subject/Page_Subjects/Search'), 'ssssssss')
+WebUI.click(findTestObject('Program/Page_Programs/Program Select from the bar'))
 
-WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/No data found'))
+WebUI.sendKeys(findTestObject('Program/Page_Programs/SearchBar'), 'ASC12')
 
-WebUI.click(findTestObject('Subject/Page_Subjects/button_Reset'))
+WebUI.delay(10)
 
-WebUI.sendKeys(findTestObject('Subject/Page_Subjects/Search'), 'new22')
-
-WebUI.verifyElementVisible(findTestObject('Subject/Page_Subjects/ThreeDots'))
+WebUI.verifyElementClickable(findTestObject('Program/Page_Programs/ThreeDotsFromProgram'))

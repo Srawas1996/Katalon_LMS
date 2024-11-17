@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SearchTestcase</name>
+   <name>Search with data exist</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fe457e72-6f8a-4aad-9a3f-2f0c0c69dcc2</testCaseGuid>
+   <testCaseGuid>5345d557-76df-48f1-b95f-cc41f2d511bf</testCaseGuid>
 </TestCaseEntity>

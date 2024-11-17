@@ -29,7 +29,7 @@
       <guid>e2df72fc-d1f7-49e9-a15a-da58bf456b05</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/BloomTestCases/SearchTestcase</testCaseId>
+      <testCaseId>Test Cases/BloomTestCases/BloomSearchWithNotDataExist</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

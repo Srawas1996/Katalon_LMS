@@ -29,7 +29,14 @@
       <guid>56ca6ab5-893e-481e-a799-4a5daad03764</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SubjectTestCase/SearchSubject</testCaseId>
+      <testCaseId>Test Cases/SubjectTestCase/SearchSubjectNoDataExist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5345c12b-7f92-4af9-b467-21b20b775f93</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SubjectTestCase/SearchSubjectDataExist</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
