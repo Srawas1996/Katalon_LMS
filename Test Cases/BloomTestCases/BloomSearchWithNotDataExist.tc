@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>BloomSearchWithNotDataExist</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>fe457e72-6f8a-4aad-9a3f-2f0c0c69dcc2</testCaseGuid>
-</TestCaseEntity>

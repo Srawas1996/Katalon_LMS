@@ -6,12 +6,11 @@
    <elementGuidId>5f6e0126-b2af-4831-a026-dc76c50eeddd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[(text() = 'Update')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[(text() = 'Update')]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>63d9c7ee-0d4c-4639-8429-a69132205190</webElementGuid>
+      <webElementGuid>91a99320-5788-4ce4-8884-0d1312fb97c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>6aaa33dc-3379-4a93-8886-d15ff4560631</webElementGuid>
+      <webElementGuid>2468b294-087b-40d6-80cc-1e38e9ea266d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none transition-colors focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50 gap-1</value>
-      <webElementGuid>91b7ced4-b3b8-4e0b-ad40-0b828789eeea</webElementGuid>
+      <webElementGuid>2f39ced5-0c5e-42c3-9da1-272a0dceb9e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>bf6f3470-ffff-4d29-a00e-a4517a87b3f2</webElementGuid>
+      <webElementGuid>1f0fb606-e316-4334-af58-4d519c93e2e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>data-orientation</name>
       <type>Main</type>
       <value>vertical</value>
-      <webElementGuid>14ec7d97-c56e-41fe-9844-e6a91eb68077</webElementGuid>
+      <webElementGuid>57d4f071-ae38-4f54-8923-55d9ca97369a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Update</value>
-      <webElementGuid>dfa77019-f8c6-40a6-9a96-3dc6cdaeab06</webElementGuid>
+      <webElementGuid>30fb975a-fb90-4b7d-a8da-dcbd667a5a89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r1k:&quot;)/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none transition-colors focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50 gap-1&quot;]</value>
-      <webElementGuid>ae110e2d-47ff-4215-a805-9de0a5aa0d7b</webElementGuid>
+      <webElementGuid>aa77ba68-b5e1-4598-a5b1-6f0697caa7aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r1k:']/div</value>
-      <webElementGuid>9e74ba4c-6336-4844-9228-f3d9f5612cf6</webElementGuid>
+      <webElementGuid>d542cb32-b7c6-4f20-a9ca-477b2802c219</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::div[3]</value>
-      <webElementGuid>352b0a1c-5f0c-4db6-ab03-e5bbc14e70eb</webElementGuid>
+      <webElementGuid>d4ab0cb8-8fec-4fab-8bf3-554e92441da0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[2]</value>
-      <webElementGuid>b8f7e89c-ecb7-46b2-ac23-7c03b1a900d3</webElementGuid>
+      <webElementGuid>54f22f99-8b9d-478d-91cf-a8962c976868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
-      <webElementGuid>ee69901f-bd6e-4a7a-89ab-9f23451f3909</webElementGuid>
+      <webElementGuid>192caffd-27d4-44e3-a4fc-21f24c7ec8eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>5d550e2b-a60e-470d-88b6-fe560cc22136</webElementGuid>
+      <webElementGuid>9269fb4c-bba8-4012-983d-9b21bd3cccdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Update' or . = 'Update')]</value>
-      <webElementGuid>4910950f-681a-40df-9237-d20ce58bc3f0</webElementGuid>
+      <webElementGuid>8b4c1b2e-d80d-42a7-9791-6881fbb14e52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

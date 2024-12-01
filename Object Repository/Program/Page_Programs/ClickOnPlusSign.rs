@@ -6,15 +6,15 @@
    <elementGuidId>a8cc976f-3927-40c9-ad31-d4f446a1dea0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main']/div/div/button</value>
+         <key>CSS</key>
+         <value>button[title='Create Program']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>698c7121-f940-4224-a0ee-27287bedcbb3</webElementGuid>
+      <webElementGuid>7b80a7c7-48b5-4e07-8f5f-55044c105b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary-40 text-primary-foreground hover:bg-primary-40/90 w-10 h-10 rounded-full</value>
-      <webElementGuid>53dd9745-22aa-490a-bde8-ff7c4cc39ca7</webElementGuid>
+      <webElementGuid>56adfc5a-1529-46a3-8a2d-269633337c3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;mt-5 mb-8 flex items-center gap-3&quot;]/button[@class=&quot;inline-flex items-center justify-center whitespace-nowrap text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary-40 text-primary-foreground hover:bg-primary-40/90 w-10 h-10 rounded-full&quot;]</value>
-      <webElementGuid>7cc9fe8e-6f1c-4ed7-b102-307826f8a971</webElementGuid>
+      <webElementGuid>b6395f5d-9918-40e8-8a5a-4a2e1c86f8f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main']/div/div/button</value>
-      <webElementGuid>56c981fd-e2aa-4f17-a15b-5e247b120f23</webElementGuid>
+      <webElementGuid>a4589f1a-9cd9-4928-818d-bdbfb18ff2af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Programs'])[4]/following::button[1]</value>
-      <webElementGuid>01b72215-58a9-4bd8-9971-d5bf09573199</webElementGuid>
+      <webElementGuid>c47abafe-7cef-4758-afa2-489d86bd651f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Programs'])[3]/following::button[1]</value>
-      <webElementGuid>5a6f6d5f-cfe7-4355-af0c-ed1c296812ad</webElementGuid>
+      <webElementGuid>ead2adda-4b33-42bd-bedb-5eb494d7ec28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[1]</value>
-      <webElementGuid>e0d3fed8-ce0d-4bb5-8c3a-54da58a70f38</webElementGuid>
+      <webElementGuid>9d3a9a2f-ef97-410f-878d-3ed4e8aa3380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Name'])[1]/preceding::button[3]</value>
-      <webElementGuid>fca612ee-0d9a-4fbe-9063-d542eff0579f</webElementGuid>
+      <webElementGuid>5db08163-3ae3-4447-a40d-ca48f67ea443</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/button</value>
-      <webElementGuid>2f27c50a-f10d-4af5-a0a2-1b0b2ee1e66b</webElementGuid>
+      <webElementGuid>77e0878c-11d5-48a9-902e-ec20f6ffd4d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

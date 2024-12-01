@@ -6,12 +6,12 @@
    <elementGuidId>c0a68719-6ae0-42ed-af41-c05040ab8d12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.flex.flex-1.text-sm.text-current</value>
+         <key>XPATH</key>
+         <value>//span[(text() = 'School')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[(text() = 'School')]</value>
+         <key>CSS</key>
+         <value>a.flex.flex-1.text-sm.text-current</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ca186177-2eb4-43d0-aebf-e721f4b29b90</webElementGuid>
+      <webElementGuid>bb5b674e-ed95-4b00-bc61-1964cb76dd6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-1 text-sm text-current</value>
-      <webElementGuid>20960ce9-1c06-47dc-b25c-c6716057fdc1</webElementGuid>
+      <webElementGuid>95cc498c-42ed-4a3d-b74a-dd3402081e02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/settings/school/programs</value>
-      <webElementGuid>78d9d9e4-ef8d-4da6-af27-4c25566836af</webElementGuid>
+      <webElementGuid>d13c84ac-7e7f-4e89-8b09-695cb8ea2336</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>School</value>
-      <webElementGuid>8eb5ae9e-a629-4c22-8c2f-3d7b2d0fd374</webElementGuid>
+      <webElementGuid>0424a378-03e3-4b99-9ee9-8d363830df07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;flex min-h-screen w-full flex-col bg-muted/50&quot;]/div[1]/aside[@class=&quot;fixed inset-y-0 border-y rounded-lg start-4 z-10 transition-all top-24 bottom-4 group w-[300px]&quot;]/div[@class=&quot;relative h-full flex-col w-full bg-background rounded-lg sm:flex hidden border-e&quot;]/div[@class=&quot;flex h-full&quot;]/div[@class=&quot;relative overflow-hidden h-full w-full p-4&quot;]/div[@class=&quot;h-full w-full rounded-[inherit] [&amp;>div]:h-full&quot;]/div[1]/nav[@class=&quot;flex flex-col items-start gap-4 sm:py-4 flex-1&quot;]/div[@class=&quot;w-full&quot;]/details[@class=&quot;w-full text-current&quot;]/summary[@class=&quot;flex items-center p-1 text-current hover:text-primary/70&quot;]/a[@class=&quot;flex flex-1 text-sm text-current&quot;]</value>
-      <webElementGuid>457169bd-d218-4518-b7e8-258524e63043</webElementGuid>
+      <webElementGuid>72073ff7-8c23-435a-a433-157a504a79ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/aside/div/div/div[2]/div/div/nav/div/details/summary/a</value>
-      <webElementGuid>f916b62f-744b-4cae-b548-7b54896ceaee</webElementGuid>
+      <webElementGuid>b41e6efa-cf8d-443e-927b-1c091b95d0ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'School')]</value>
-      <webElementGuid>697d62af-8173-4a06-bcbf-3e53df8d7ad3</webElementGuid>
+      <webElementGuid>3d6b4a22-11af-48d6-a23e-3ff4d66eab9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Countries'])[1]/following::a[1]</value>
-      <webElementGuid>b2ca7432-1738-4f69-aec8-82bd136e2aff</webElementGuid>
+      <webElementGuid>09d1245f-1d11-4edd-8c59-9f98efacd374</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::a[2]</value>
-      <webElementGuid>31b1b569-9c74-4797-aa48-53c58bbdab13</webElementGuid>
+      <webElementGuid>e7576ac1-1efc-4d32-814e-a53ece448c1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Programs'])[1]/preceding::a[1]</value>
-      <webElementGuid>3bc628ff-127e-4119-85dc-273e37b05ef6</webElementGuid>
+      <webElementGuid>20870df3-d3a3-42e0-9776-27273fc8678c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Years'])[1]/preceding::a[2]</value>
-      <webElementGuid>185c1be2-efab-43b4-99e0-fa6bf38376a1</webElementGuid>
+      <webElementGuid>47bdd7f5-7db7-41eb-8a23-341265b2079c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='School']/parent::*</value>
-      <webElementGuid>4ba7a2c8-097a-424c-bcd3-b604553e87d3</webElementGuid>
+      <webElementGuid>5573b9b9-d901-43af-96dc-59daac466194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/settings/school/programs')]</value>
-      <webElementGuid>c9dd484f-d354-4c7a-af27-1dbdcf8fd631</webElementGuid>
+      <webElementGuid>96f5df0f-0009-4d4a-b708-3ab7be38d561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//summary/a</value>
-      <webElementGuid>b5e0405e-62b4-4aa5-8460-f80fb0396312</webElementGuid>
+      <webElementGuid>21b91dfd-02a1-450d-8c67-ae25496d2bb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/settings/school/programs' and (text() = 'School' or . = 'School')]</value>
-      <webElementGuid>61db5eef-5eed-4b17-ba6b-042dcd251699</webElementGuid>
+      <webElementGuid>46a6e34b-bbd5-4ae1-a3d9-e834736cb336</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -39,8 +39,6 @@ WebUI.click(findTestObject('Program/Page_Programs/UpdateProgramType'))
 
 WebUI.click(findTestObject('Program/Page_Programs/International'))
 
-WebUI.click(findTestObject('Program/Page_Programs/RemoveContryFromProgram'))
-
 WebUI.click(findTestObject('Program/Page_Programs/button_Update'))
 
 WebUI.verifyElementClickable(findTestObject('Program/Page_Programs/ThreeDotsFromProgram'))

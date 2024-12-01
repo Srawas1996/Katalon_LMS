@@ -6,15 +6,15 @@
    <elementGuidId>608c3384-7574-4adc-b73b-a612db4a4417</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
          <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'National' or . = 'National')]</value>
+         <key>CSS</key>
+         <value>button[aria-haspopup='dialog'][role='combobox']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eb876e1f-dcfc-4fc0-a1af-f7a6abf11fc4</webElementGuid>
+      <webElementGuid>472da126-319c-40b8-bdcc-bd3a2ad0e394</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border h-10 py-2 hover:bg-primary-15 text-secondary-50 w-full justify-between px-3 border-input bg-background relative</value>
-      <webElementGuid>ada6ede6-a959-4818-92ce-51b3283d0f32</webElementGuid>
+      <webElementGuid>0b591bcf-ffff-44b7-a1e8-8581b31fcc71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>37db96aa-3295-4377-98f8-ec8b2ad0a851</webElementGuid>
+      <webElementGuid>cbb984e2-1d8c-485e-ab31-4eb56a195039</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8099633b-8cbf-40ea-8924-ac125e562166</webElementGuid>
+      <webElementGuid>2e0fb6e9-0e11-4250-b7ac-73afd1afedee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c5809e41-6bf4-48df-bcc4-dd16b33e91d0</webElementGuid>
+      <webElementGuid>092e1448-edf1-4a2d-ac58-00d2deb812a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>96199a80-cdff-4f97-8848-92e490530603</webElementGuid>
+      <webElementGuid>34d469ec-0d28-46cd-a6c4-65666425eb52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-:r7m:</value>
-      <webElementGuid>54746ca9-8540-4811-acb1-95753d608275</webElementGuid>
+      <webElementGuid>630d611b-7b8f-4154-9958-01f117432175</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>21491aa7-add9-4ce9-a4a7-8f8313209408</webElementGuid>
+      <webElementGuid>9028eda2-05d3-4192-812d-a0857b47f1dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>text</name>
       <type>Main</type>
       <value>National</value>
-      <webElementGuid>c762d22c-d54e-482a-bd09-15118c0178ca</webElementGuid>
+      <webElementGuid>150c2dd0-6ed2-4d5f-8adf-fe8292754507</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r7f:&quot;)/div[@class=&quot;flex-1 overflow-y-auto overflow-x-visible px-1&quot;]/form[@class=&quot;space-y-8&quot;]/div[@class=&quot;grid grid-cols-2 gap-6&quot;]/div[@class=&quot;space-y-1&quot;]/button[@class=&quot;inline-flex items-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border h-10 py-2 hover:bg-primary-15 text-secondary-50 w-full justify-between px-3 border-input bg-background relative&quot;]</value>
-      <webElementGuid>6cdf8ec6-c317-4f00-b872-45945a81a274</webElementGuid>
+      <webElementGuid>42123dba-7744-4aa7-8254-c221939bfae2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[28]</value>
-      <webElementGuid>6acda758-f96a-42c2-bc40-bc6b5dc96428</webElementGuid>
+      <webElementGuid>c265c437-5ab3-42b6-9983-c9f78a1f324d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r7f:']/div[2]/form/div/div[4]/button</value>
-      <webElementGuid>227c2ea5-279d-4742-a100-35bb3b703ca3</webElementGuid>
+      <webElementGuid>f186e6aa-0fcb-4792-ac42-034e0f3fbed9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Type'])[2]/following::button[1]</value>
-      <webElementGuid>84224155-f241-442d-8ee9-793876cea5ce</webElementGuid>
+      <webElementGuid>3d349312-ee35-4f7b-8fa3-927bc6664e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Arabic Name'])[1]/following::button[1]</value>
-      <webElementGuid>ed1fc77e-c001-4d67-9e64-0d02704ef183</webElementGuid>
+      <webElementGuid>564a7571-c2cf-494e-8306-af7fb99831db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Parent (Optional)'])[1]/preceding::button[1]</value>
-      <webElementGuid>5af46a14-3475-443a-856c-844fa3637bc6</webElementGuid>
+      <webElementGuid>aca1f6a9-ff56-4a49-82f0-08ec4eb3572c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>a8503068-6e0e-45f0-b07e-4aeffa360626</webElementGuid>
+      <webElementGuid>7af75ff4-c7c0-4736-9e5d-3182de92ed87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'National' or . = 'National')]</value>
-      <webElementGuid>c83c6842-94b0-4187-95af-5b666dc1c802</webElementGuid>
+      <webElementGuid>8a16b504-8d6a-442d-a51b-381dfec2abbc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
