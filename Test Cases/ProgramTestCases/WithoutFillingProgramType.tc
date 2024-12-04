@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>WithoutFillingProgramType</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>00691bf2-9d5b-4071-b835-95ab04d25fd0</testCaseGuid>
-</TestCaseEntity>

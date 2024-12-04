@@ -27,8 +27,6 @@ WebUI.click(findTestObject('Semester/Semesters from Academic year'))
 
 WebUI.verifyElementPresent(findTestObject('Semester/No data found'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Semester/Semesters AutomationTest name'), 0)
-
 WebUI.click(findTestObject('Semester/Plus sign'))
 
 WebUI.sendKeys(findTestObject('Semester/Semester English Name'), GlobalVariable.Semester_EnglishName)
@@ -38,36 +36,42 @@ WebUI.sendKeys(findTestObject('Semester/Semester Arabic Name'), GlobalVariable.S
 WebUI.click(findTestObject('Semester/Start Date Semester'))
 
 // Start Date Select
-WebUI.click(findTestObject('Semester/Start Date/Start Date year'))
-
-WebUI.click(findTestObject('Semester/Start Date/Start Date Year Select'))
 
 WebUI.click(findTestObject('Semester/Start Date/Start date month'))
 
 WebUI.click(findTestObject('Semester/Start Date/Start Date Month Select'))
 
+WebUI.click(findTestObject('Semester/Start Date/Start Date year'))
+
+WebUI.click(findTestObject('Semester/Start Date/Start Date Year Select'))
+
 WebUI.click(findTestObject('Semester/Start Date/Start date Day Select'))
 
-WebUI.click(findTestObject('Semester/Start Date Semester'))
+//WebUI.click(findTestObject('Semester/Start Date Semester'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Semester/End Date Semester'))
 
 //End Date Select
-WebUI.click(findTestObject('Semester/End Date/End Date - year'))
-
-WebUI.click(findTestObject('Semester/End Date/End Date - Year Select'))
 
 WebUI.click(findTestObject('Semester/End Date/End Date - Month'))
 
 WebUI.click(findTestObject('Semester/End Date/End Date - Month Select'))
 
+WebUI.click(findTestObject('Semester/End Date/End Date - year'))
+
+WebUI.click(findTestObject('Semester/End Date/End Date - Year Select'))
+
 WebUI.click(findTestObject('Semester/End Date/End Date - Day Select'))
 
-WebUI.click(findTestObject('Semester/End Date Semester'))
+//WebUI.click(findTestObject('Semester/End Date Semester'))
 
-WebUI.click(findTestObject('Semester/Actual Start date Semester'))
+
 
 // Actual Start Date Select
+WebUI.click(findTestObject('Semester/Actual Start date Semester'))
+
 WebUI.click(findTestObject('Semester/Actual Start Date/Actual Start Date Month'))
 
 WebUI.click(findTestObject('Semester/Actual Start Date/Actual Start Date - Month Select'))
@@ -78,18 +82,21 @@ WebUI.click(findTestObject('Semester/Actual Start Date/Actual Start Date - Year 
 
 WebUI.click(findTestObject('Semester/Actual Start Date/Actual Start Date - Day Select'))
 
-WebUI.click(findTestObject('Semester/Actual Start date Semester'))
+//WebUI.click(findTestObject('Semester/Actual Start date Semester'))
 
 WebUI.click(findTestObject('Semester/Actual End date Semester'))
 
 // Actual End Date Select
-WebUI.click(findTestObject('Semester/Actual End Date/Actual End Date - year'))
 
-WebUI.click(findTestObject('Semester/Actual End Date/Actaul End Date - Year Select'))
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Semester/Actual End Date/Actual End Date - month'))
 
 WebUI.click(findTestObject('Semester/Actual End Date/Actual End date - month Select'))
+
+WebUI.click(findTestObject('Semester/Actual End Date/Actual End Date - year'))
+
+WebUI.click(findTestObject('Semester/Actual End Date/Actaul End Date - Year Select'))
 
 WebUI.click(findTestObject('Semester/Actual End Date/Actual End Date - Day Select'))
 
@@ -97,3 +104,4 @@ WebUI.click(findTestObject('Semester/Create Semester'))
 
 WebUI.delay(10)
 
+WebUI.closeBrowser()

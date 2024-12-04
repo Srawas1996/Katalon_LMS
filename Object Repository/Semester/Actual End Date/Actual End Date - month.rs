@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual End Date'])[2]/following::button[2]</value>
+         <value>//button[@type = 'button' and (text() = 'December' or . = 'December')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7e0dee8a-47a9-43ce-ab18-a7e6a1dcbfd8</webElementGuid>
+      <webElementGuid>374355d1-838d-437d-ae30-f2a4c0c846f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6220b0bb-cd17-4c67-b203-501bc27ae522</webElementGuid>
+      <webElementGuid>4f4d6a7e-b473-4976-b8ba-89e7d67d3c4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>996c4e2e-1bc5-4389-80ee-f7ec207a60a5</webElementGuid>
+      <webElementGuid>9cac292d-3359-4792-a1cc-d72e76a3052b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-:rlm:</value>
-      <webElementGuid>20b7f81a-ee0e-40b6-afb0-efdd0c029c90</webElementGuid>
+      <webElementGuid>5304f006-476b-40d2-b91d-277ad3dc3760</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2c4a4bcb-7116-4834-9c71-8cb7f4a00b67</webElementGuid>
+      <webElementGuid>3d691a1d-5d89-4eb1-a68e-7a9d3a44d8ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>2dd6ae6a-bb1d-4b3a-a9e2-c73fa13320d5</webElementGuid>
+      <webElementGuid>961ec01b-66ea-4d58-ba75-b84e9ca34bda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>4ffabb25-a174-4a8d-bed0-549a87d5a87a</webElementGuid>
+      <webElementGuid>2664912a-d466-406d-893b-d5587da5f4a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>197bcd70-7ef3-4714-adc5-f891636d83cd</webElementGuid>
+      <webElementGuid>69219b52-1ead-4286-b508-5c95b320d8ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex h-10 items-center justify-between rounded-md border bg-background text-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-transparent focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 [&amp;>span]:line-clamp-1 w-fit border-none p-0 focus:bg-accent focus:text-accent-foreground</value>
-      <webElementGuid>0ea4f8e3-a71e-4b60-9520-2c6d917cbd36</webElementGuid>
+      <webElementGuid>25dcd171-da37-4c92-a555-19bcc7cb8b5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +94,7 @@
       <name>text</name>
       <type>Main</type>
       <value>October</value>
-      <webElementGuid>c556c9ef-bef3-43c4-8dda-4188d1deb88a</webElementGuid>
+      <webElementGuid>c25f533a-52e6-4d5b-af71-3dc3bb20bb21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r95:&quot;)/div[@class=&quot;rdp p-3&quot;]/div[@class=&quot;flex flex-col sm:flex-row space-y-4 sm:space-x-4 sm:space-y-0 justify-center&quot;]/div[@class=&quot;space-y-4 rdp-caption_start rdp-caption_end&quot;]/div[@class=&quot;flex justify-center pt-1 relative items-center&quot;]/div[@class=&quot;inline-flex gap-2&quot;]/button[@class=&quot;flex h-10 items-center justify-between rounded-md border bg-background text-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-transparent focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 [&amp;>span]:line-clamp-1 w-fit border-none p-0 focus:bg-accent focus:text-accent-foreground&quot;]</value>
-      <webElementGuid>dab70183-d271-4eb3-a832-b0f6398897ea</webElementGuid>
+      <webElementGuid>5480c61c-8222-466a-aab1-73562f060eb5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>557b974f-6f42-459f-9de4-e532af433078</webElementGuid>
+      <webElementGuid>a57d1fc8-2491-4f02-9729-862c1c4ab967</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r95:']/div/div/div/div/div/button</value>
-      <webElementGuid>0e05306b-8dce-42cc-886d-617094cf5b10</webElementGuid>
+      <webElementGuid>529d638f-7e22-4fc6-9a39-27d27aefde40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick a date'])[1]/following::button[1]</value>
-      <webElementGuid>08f5407b-910a-4014-a123-b5683384e7ec</webElementGuid>
+      <webElementGuid>dc009701-1712-49b8-b64e-c45fe6c266c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual End Date'])[2]/following::button[2]</value>
-      <webElementGuid>81c64bc9-aabf-40b1-9e34-ea291ecf77c1</webElementGuid>
+      <webElementGuid>13d8a36a-994b-4990-bddf-f8483b91da1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::button[4]</value>
-      <webElementGuid>6a561134-ff93-47c8-8221-c7859125ed82</webElementGuid>
+      <webElementGuid>28a54100-c272-4895-ab7d-b5d6779d2662</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/button</value>
-      <webElementGuid>87d467ed-19b5-4f11-b865-d7f241a58c1a</webElementGuid>
+      <webElementGuid>24e42819-9cad-4d27-8303-ccf1797cf9db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'October' or . = 'October')]</value>
-      <webElementGuid>876a6fbc-38bf-4e10-aa05-85b4cf070d72</webElementGuid>
+      <webElementGuid>3e6eb2b2-90c2-4fd4-8a6a-a58d850abc7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

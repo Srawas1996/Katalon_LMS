@@ -15,21 +15,21 @@
       <guid>a9d06bd2-558f-49f5-902d-132cb1c1df4b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCases/Invalid_Login/InvalidLogin1</testCaseId>
+      <testCaseId>Test Cases/Login_TestCases_Updated/Invalid_Login/InvalidLogin1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>97eafdda-448b-4fef-aeca-0622136ccd99</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCases/Invalid_Login/InvalidLogin2</testCaseId>
+      <testCaseId>Test Cases/Login_TestCases_Updated/Invalid_Login/InvalidLogin2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>20a6989c-abb0-4cab-a223-a06b9613ffa1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_TestCases/Invalid_Login/InvalidLogin3</testCaseId>
+      <testCaseId>Test Cases/Login_TestCases_Updated/Invalid_Login/InvalidLogin3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

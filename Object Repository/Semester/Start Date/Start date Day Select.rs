@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0ebc31eb-8284-4a00-adda-a5892b5ceeaa</webElementGuid>
+      <webElementGuid>6ad36ceb-9dd5-4386-b41f-e548869e48d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>day</value>
-      <webElementGuid>5edc520d-8400-4b18-bd32-7cfe6bfc4bb3</webElementGuid>
+      <webElementGuid>3ec37811-61e4-4c1d-bafd-a7a8dc88f7c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>rdp-button_reset rdp-button inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-transparent hover:bg-primary-20/20 text-primary-40 h-9 w-9 p-0 font-normal aria-selected:opacity-100 bg-primary text-primary-foreground hover:bg-primary hover:text-primary-foreground focus:bg-primary focus:text-primary-foreground</value>
-      <webElementGuid>5de82ea9-08dc-4fd8-9c90-351bdef327e1</webElementGuid>
+      <webElementGuid>3db66a2c-9e45-4f5b-aac0-7147a4cb5245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>d2c72741-815c-48d9-9edb-0cdea56a9aba</webElementGuid>
+      <webElementGuid>8d7975f6-e78b-4fd6-94d8-3089ddf4288d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f81ac245-9dfe-473d-b11e-b7ffb6b88426</webElementGuid>
+      <webElementGuid>c6b27012-fd4b-486d-ab13-75559285b531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1e43157e-7ba9-4d05-a92d-361a01841284</webElementGuid>
+      <webElementGuid>a8828eee-a165-45d6-a373-fda8f3e1cc11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ac3ba0c0-3055-4708-9a23-da1f2c0808d9</webElementGuid>
+      <webElementGuid>725f7d69-a0b8-40e9-bc5b-2c21c17da488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>f42e9d8d-0c8c-4c4a-a281-677d95f468fe</webElementGuid>
+      <webElementGuid>c2172d97-6abc-40c3-84ab-fe7d44fed42f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r8v:&quot;)/div[@class=&quot;rdp p-3&quot;]/div[@class=&quot;flex flex-col sm:flex-row space-y-4 sm:space-x-4 sm:space-y-0 justify-center&quot;]/div[@class=&quot;space-y-4 rdp-caption_start rdp-caption_end&quot;]/table[@class=&quot;w-full border-collapse space-y-1&quot;]/tbody[@class=&quot;rdp-tbody&quot;]/tr[@class=&quot;flex w-full mt-2&quot;]/td[@class=&quot;h-9 w-9 text-center text-sm p-0 relative [&amp;:has([aria-selected].day-range-end)]:rounded-r-md [&amp;:has([aria-selected].day-outside)]:bg-accent/50 [&amp;:has([aria-selected])]:bg-accent first:[&amp;:has([aria-selected])]:rounded-l-md last:[&amp;:has([aria-selected])]:rounded-r-md focus-within:relative focus-within:z-20&quot;]/button[@class=&quot;rdp-button_reset rdp-button inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-transparent hover:bg-primary-20/20 text-primary-40 h-9 w-9 p-0 font-normal aria-selected:opacity-100 bg-primary text-primary-foreground hover:bg-primary hover:text-primary-foreground focus:bg-primary focus:text-primary-foreground&quot;]</value>
-      <webElementGuid>7744289e-4687-41d6-b418-59b791f2a514</webElementGuid>
+      <webElementGuid>98228348-5245-4ef9-84b8-26cb64517969</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@name='day'])[4]</value>
-      <webElementGuid>aa4a7205-55f6-48bb-a66c-be87c675a3ef</webElementGuid>
+      <webElementGuid>52202613-6ede-428b-87c9-90c7104ea120</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r8v:']/div/div/div/table/tbody/tr/td[4]/button</value>
-      <webElementGuid>b3e07a29-33ba-49c5-9df5-318c52c2b83f</webElementGuid>
+      <webElementGuid>3f4ca512-1468-4b59-85a0-f499ae1b0611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::button[4]</value>
-      <webElementGuid>5c5f9790-9662-4a4e-acfb-1dc7389265be</webElementGuid>
+      <webElementGuid>3b374c3e-e3f8-4751-9473-b1a0973c9ed9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::button[4]</value>
-      <webElementGuid>b021df19-8fae-44f9-a901-0b32e038b256</webElementGuid>
+      <webElementGuid>23f05e2d-9b68-41a9-b6bd-8e84cca188f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[2]/preceding::button[32]</value>
-      <webElementGuid>4f16b0a3-529d-46f3-9f77-f18ee0ee264e</webElementGuid>
+      <webElementGuid>cf2492d3-b6aa-4b13-9143-f2f713d834bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick a date'])[1]/preceding::button[32]</value>
-      <webElementGuid>7c2de846-31ee-4f4a-85db-bfd5a32bf4e7</webElementGuid>
+      <webElementGuid>c4b16bac-2bc2-43de-a9fa-e61ec58e4799</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1']/parent::*</value>
-      <webElementGuid>d5e31507-14de-4981-9924-e6e59d25d444</webElementGuid>
+      <webElementGuid>258ae0ea-97d4-4014-b546-3bcd328fbc76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/button</value>
-      <webElementGuid>96c8ebf1-8c8f-4b0e-a96b-55e8b5840e20</webElementGuid>
+      <webElementGuid>4fd9475f-da2b-4eca-ae31-a74630d0ee55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'day' and @type = 'button' and (text() = '1' or . = '1')]</value>
-      <webElementGuid>a9a261ae-d761-48f6-9e61-3d7a263083e5</webElementGuid>
+      <webElementGuid>96d47418-acbf-470b-86ea-0f51307c0861</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

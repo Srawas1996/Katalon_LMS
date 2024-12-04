@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>InvalidLogin3</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>86dad2b0-a8ba-4424-9fc7-5026b0b60229</testCaseGuid>
-</TestCaseEntity>

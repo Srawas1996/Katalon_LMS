@@ -40,11 +40,11 @@ class Testlistener {
 			WebUI.maximizeWindow()
 			WebUI.deleteAllCookies()
 			
-			WebUI.sendKeys(findTestObject('Login/Page_Login/UserName'), 'owner@app.com')
+			WebUI.sendKeys(findTestObject('Login_updated/Page_Login/UserName'), 'owner@app.com')
 			
-			WebUI.sendKeys(findTestObject('Login/Page_Login/password'), '12345678')
+			WebUI.sendKeys(findTestObject('Login_updated/Page_Login/password'), '12345678')
 			
-			WebUI.click(findTestObject('Login/Page_Login/Sign In'))
+			WebUI.click(findTestObject('Login_updated/Page_Login/Sign In'))
 		} else {
 			println "Skipping setup for Test Case: " + testCaseId
 		}

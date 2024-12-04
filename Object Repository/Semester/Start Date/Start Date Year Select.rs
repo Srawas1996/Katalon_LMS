@@ -6,11 +6,11 @@
    <elementGuidId>9b715dde-5725-432d-b7a3-de3918506ade</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[(text() = '2021' or . = '2021')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0f864435-0ef9-4a57-8770-b03905448163</webElementGuid>
+      <webElementGuid>f86f9e13-a7e8-4b87-a78b-65b91b0fd25d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>8f6e6d6c-b159-4de6-9a49-6bb3501a5b41</webElementGuid>
+      <webElementGuid>c05c8b62-b15e-4fa6-bf91-7cb1b141965d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>radix-:r60:</value>
-      <webElementGuid>e5eccb40-bf72-4e0c-b506-ef5e83487599</webElementGuid>
+      <webElementGuid>ccc91cd4-47b5-4bba-a20d-8b6882b528e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>18b53627-7d09-462a-83d9-a7c747decea5</webElementGuid>
+      <webElementGuid>90db0e7d-2067-4f65-9616-f9f4ebb9fab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>unchecked</value>
-      <webElementGuid>6912b36f-d3ef-46c4-b8d3-14d4b9dc5a22</webElementGuid>
+      <webElementGuid>3408e548-7dd3-4fbf-9b31-0fb9c25c9220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>cc21a851-8951-4afa-a51f-6f56f94b66e6</webElementGuid>
+      <webElementGuid>a301d928-8305-4186-9f53-6623731dd49f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex w-full cursor-default select-none items-center rounded-sm py-1.5 pl-8 pr-2 text-sm outline-none focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50</value>
-      <webElementGuid>d5819813-8300-4f83-b679-33c75ba6145a</webElementGuid>
+      <webElementGuid>679d83e9-240d-44f2-8dce-fb7c3bf566a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2021</value>
-      <webElementGuid>0b7f053e-4388-48e5-b5f8-52f47a06811f</webElementGuid>
+      <webElementGuid>60c109fa-9f74-4a36-9e3a-76ae452b6742</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r4k:&quot;)/div[@class=&quot;p-1 h-[var(--radix-select-trigger-height)] w-full min-w-[var(--radix-select-trigger-width)]&quot;]/div[@class=&quot;relative flex w-full cursor-default select-none items-center rounded-sm py-1.5 pl-8 pr-2 text-sm outline-none focus:bg-accent focus:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50&quot;]</value>
-      <webElementGuid>769c94f9-2a68-4e2a-957b-50872444a82b</webElementGuid>
+      <webElementGuid>54a9695a-97ae-41ad-af4d-c767dcfa7541</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r4k:']/div/div</value>
-      <webElementGuid>6c97a327-0e26-4f0b-ab7d-3e3c79dbb771</webElementGuid>
+      <webElementGuid>885241b4-b522-434e-a4fe-7117bd4a858d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::div[4]</value>
-      <webElementGuid>0aae98e6-443d-4f26-907f-199470eafabc</webElementGuid>
+      <webElementGuid>12c8bad4-0c69-48cf-b0df-80dfb586bbae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[4]</value>
-      <webElementGuid>01351ade-2abc-48f0-8560-cdcd5bea5fa2</webElementGuid>
+      <webElementGuid>c306d6da-6c80-42f9-a108-428e5d652005</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div</value>
-      <webElementGuid>0c760549-5b4c-494d-b230-5e4f91b1cf89</webElementGuid>
+      <webElementGuid>04619546-2c0b-4637-baf7-039f7d26ea20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '2021' or . = '2021')]</value>
-      <webElementGuid>f4f025e6-3c18-4632-b3a8-3f0a0c61ec21</webElementGuid>
+      <webElementGuid>21bb6a88-f85b-4c8c-b451-5f3a9968e9d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

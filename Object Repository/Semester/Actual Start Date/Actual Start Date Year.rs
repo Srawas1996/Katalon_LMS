@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div/div/div/div/button[2]</value>
+         <value>//button[@type = 'button' and (text() = '2024' or . = '2024')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cc80cddb-c027-4519-b5f1-b69f33cc00a9</webElementGuid>
+      <webElementGuid>9ec73e4e-3e75-4564-bc9c-6dd5b933c7c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eddbe066-af2e-46e7-aff1-a897eafd2dbc</webElementGuid>
+      <webElementGuid>f4c99400-184b-4c2e-88d1-e96e5dd8620e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>89e8aae6-033b-4b72-be70-d0e95d441e96</webElementGuid>
+      <webElementGuid>208fbd86-3cc8-4335-8b6f-2a5db8ac09a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>radix-:rcc:</value>
-      <webElementGuid>6290eb83-8a57-4b67-9a74-b8a7ae46707e</webElementGuid>
+      <webElementGuid>1e99299f-0daf-42f1-8726-622b85992321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +54,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b594ff45-9c99-44f3-815b-6a58df422472</webElementGuid>
+      <webElementGuid>e432e230-e581-4289-924e-da1ed6c63ab0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>beb351ec-f3e1-4193-8f0e-f4ed8bcd5c8e</webElementGuid>
+      <webElementGuid>7d51a911-2481-4d0b-bea8-0f0978573d97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>1e3d573b-c7df-499a-9157-06b96c71d8c9</webElementGuid>
+      <webElementGuid>371fbec0-0360-4917-93cb-9bada61f6751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>04d7bd2a-21f0-49ed-b4e6-21ddc542ab10</webElementGuid>
+      <webElementGuid>cdcbd8be-5b03-4a7e-ae98-7f332c2a6f30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex h-10 items-center justify-between rounded-md border bg-background text-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-transparent focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 [&amp;>span]:line-clamp-1 w-fit border-none p-0 focus:bg-accent focus:text-accent-foreground</value>
-      <webElementGuid>587e7d77-69e1-4bb0-b006-19cac1fe17fc</webElementGuid>
+      <webElementGuid>b35d85fe-a909-4325-b658-5625906549f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +94,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2024</value>
-      <webElementGuid>a444eb5d-e135-4020-9be9-ff52a5ce1601</webElementGuid>
+      <webElementGuid>5a5994c5-76e7-4e47-826e-f495930a8225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r93:&quot;)/div[@class=&quot;rdp p-3&quot;]/div[@class=&quot;flex flex-col sm:flex-row space-y-4 sm:space-x-4 sm:space-y-0 justify-center&quot;]/div[@class=&quot;space-y-4 rdp-caption_start rdp-caption_end&quot;]/div[@class=&quot;flex justify-center pt-1 relative items-center&quot;]/div[@class=&quot;inline-flex gap-2&quot;]/button[@class=&quot;flex h-10 items-center justify-between rounded-md border bg-background text-sm ring-offset-background placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-transparent focus:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 [&amp;>span]:line-clamp-1 w-fit border-none p-0 focus:bg-accent focus:text-accent-foreground&quot;]</value>
-      <webElementGuid>314a877f-4168-430c-929d-025443a5fe7c</webElementGuid>
+      <webElementGuid>0eb188fd-3b99-4e2e-9900-ff3a4cfec401</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>741c69df-f46b-4f76-b780-6a3a0ed7179d</webElementGuid>
+      <webElementGuid>6854cfe8-8d11-4ffd-bdfd-89facbfc607c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r93:']/div/div/div/div/div/button[2]</value>
-      <webElementGuid>a7c2492d-5f53-4384-8f70-48890807ba6b</webElementGuid>
+      <webElementGuid>2a1b3927-7528-477c-9b56-606c2e117430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='October'])[1]/following::button[1]</value>
-      <webElementGuid>9d20d7d1-10df-4aaf-b122-22d336e7e0cc</webElementGuid>
+      <webElementGuid>a167e736-9d58-4801-bd0a-fe87c3496312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick a date'])[2]/following::button[2]</value>
-      <webElementGuid>3562f341-2398-4e0a-ba1d-7a6dd2ca71a6</webElementGuid>
+      <webElementGuid>4530ee21-7683-40bc-8d12-31b668856d0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::button[3]</value>
-      <webElementGuid>b4b88e5d-4bf8-4809-996f-043bb1fafb31</webElementGuid>
+      <webElementGuid>6c94e6a6-a911-4fe5-9aa5-595c3b88a296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::button[3]</value>
-      <webElementGuid>b0b67f91-470d-43b7-8350-c17cd9aa82fc</webElementGuid>
+      <webElementGuid>c281bd3a-ddfc-4603-8c92-92aaff606310</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/button[2]</value>
-      <webElementGuid>183519b9-dc40-4a10-a73d-e8f9e8f59f28</webElementGuid>
+      <webElementGuid>831627e8-c718-4540-ab19-4a9cd7ead8f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = '2024' or . = '2024')]</value>
-      <webElementGuid>3c61de29-e6a7-4a94-821e-07ac7c98bffa</webElementGuid>
+      <webElementGuid>269691af-3fbd-41a2-be9a-6ae619a51688</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
